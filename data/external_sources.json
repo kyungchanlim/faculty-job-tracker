@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HigherEdJobs provided regional/remote search",
+    "url": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "source": "HigherEdJobs"
+  },
+  {
+    "name": "Inside Higher Ed Careers keyword search",
+    "url": "https://careers.insidehighered.com/jobs/?keywords=assistant%20professor%20computer%20science",
+    "source": "Inside Higher Ed"
+  },
+  {
+    "name": "Inside Higher Ed Careers CS jobs",
+    "url": "https://careers.insidehighered.com/jobs/computer-science/",
+    "source": "Inside Higher Ed"
+  },
+  {
+    "name": "Inside Higher Ed Careers faculty jobs",
+    "url": "https://careers.insidehighered.com/jobs/faculty-positions/",
+    "source": "Inside Higher Ed"
+  }
+]

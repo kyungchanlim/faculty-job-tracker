@@ -40,15 +40,15 @@ jobs:
 
       - name: Enrich missing school URLs only
         run: |
-          python scripts/enrich_schools.py --sleep 0.2
+          python scripts/enrich_schools.py --overwrite-schools --sleep 0.2
 
-      - name: Collect general job board openings
+      - name: Collect external job-board openings
         run: |
-          python scripts/collect_jobs.py || true
+          python scripts/collect_jobs.py --sleep 0.2 || true
 
       - name: Collect school CS/faculty career pages
         run: |
-          python scripts/collect_school_career_pages.py --strict --sleep 0.2
+          python scripts/collect_school_career_pages.py --strict --sleep 0.2 || true
 
       - name: Enrich jobs
         run: |
@@ -62,9 +62,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git add -A data docs
-
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

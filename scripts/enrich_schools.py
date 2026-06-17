@@ -23,6 +23,10 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+try:
+    from school_url_overrides import KNOWN_SCHOOL_URLS
+except Exception:
+    KNOWN_SCHOOL_URLS = {}
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_IN = ROOT / "data" / "schools.csv"
@@ -35,7 +39,9 @@ FIELDS = [
 ]
 
 HEADERS = {
-    "User-Agent": "faculty-job-tracker/0.3 (+https://github.com/kyungchan626/faculty-job-tracker; educational research)"
+    "User-Agent": "Mozilla/5.0 (compatible; faculty-job-tracker/0.4; educational research)",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 CS_KEYWORDS = [
@@ -116,8 +122,26 @@ def write_rows(path: Path, rows: list[dict[str, str]]) -> None:
             w.writerow({k: r.get(k, "") for k in fields})
 
 
+
+def school_key(name: str) -> str:
+    return clean(name).lower().replace("&", "and")
+
+def apply_known_overrides(row: dict[str, str], *, force: bool = False) -> bool:
+    """Fill stable official/department URL hints before live discovery."""
+    key = school_key(row.get("school", ""))
+    override = KNOWN_SCHOOL_URLS.get(key, {})
+    changed = False
+    for col, val in override.items():
+        if val and (force or not row.get(col)):
+            row[col] = val
+            changed = True
+    return changed
+
+def has_any_url(row: dict[str, str]) -> bool:
+    return any(row.get(k) for k in ["official_url", "cs_department_url", "cs_jobs_url", "faculty_jobs_url", "careers_url"])
+
 def get_json(url: str, params: dict[str, object]) -> dict:
-    r = requests.get(url, params=params, headers=HEADERS, timeout=20)
+    r = requests.get(url, params=params, headers=HEADERS, timeout=12)
     r.raise_for_status()
     return r.json()
 
@@ -156,7 +180,7 @@ def fetch(url: str, *, max_chars: int = 2_000_000) -> str:
     if not url:
         return ""
     try:
-        r = requests.get(url, headers=HEADERS, timeout=25, allow_redirects=True)
+        r = requests.get(url, headers=HEADERS, timeout=12, allow_redirects=True)
         ct = r.headers.get("content-type", "")
         if "html" not in ct and "text" not in ct:
             return ""
@@ -361,17 +385,30 @@ def main() -> None:
         school = row.get("school", "")
         print(f"[INFO] {i}/{len(rows)} {school}")
 
+        apply_known_overrides(row, force=args.force)
+
         if args.force or not row.get("official_url"):
-            row["official_url"] = wikidata_official_url(school)
+            row["official_url"] = row.get("official_url") or wikidata_official_url(school)
             time.sleep(args.sleep)
 
-        guessed = likely_urls(row.get("official_url", ""))
-        for k, v in guessed.items():
-            if v and (args.force or not row.get(k)):
-                row[k] = v
+        # If we already have curated official + CS department URLs, do only the cheap
+        # CS-job discovery step.  Avoid re-crawling the whole university homepage daily.
+        if row.get("cs_department_url") and (args.force or not row.get("cs_jobs_url")):
+            cs_job = find_cs_jobs_url(row.get("cs_department_url", ""), row.get("careers_url", ""))
+            if cs_job:
+                row["cs_jobs_url"] = cs_job
+
+        # Fallback to full homepage discovery only when important fields are still empty.
+        if row.get("official_url") and (args.force or not (row.get("cs_department_url") and (row.get("faculty_jobs_url") or row.get("careers_url")))):
+            guessed = likely_urls(row.get("official_url", ""))
+            for k, v in guessed.items():
+                if v and (args.force or not row.get(k)):
+                    row[k] = v
 
         if row.get("cs_jobs_url"):
             print(f"  [CS JOBS] {row['cs_jobs_url']}")
+        elif row.get("cs_department_url"):
+            print(f"  [CS DEPT] {row['cs_department_url']}")
         elif row.get("faculty_jobs_url"):
             print(f"  [FALLBACK FACULTY JOBS] {row['faculty_jobs_url']}")
         time.sleep(args.sleep)

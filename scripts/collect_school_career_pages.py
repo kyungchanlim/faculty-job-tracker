@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[1]
 DEFAULT_SCHOOLS=ROOT/'data/schools.csv'; DEFAULT_JOBS=ROOT/'data/jobs.json'; DEFAULT_CANDIDATES=ROOT/'data/school_career_candidates.json'
 TODAY=date.today().isoformat()
-HEADERS={"User-Agent":"faculty-job-tracker/0.2 (+https://github.com/kyungchan626/faculty-job-tracker)"}
+HEADERS={"User-Agent":"Mozilla/5.0 (compatible; faculty-job-tracker/0.4; educational research)","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","Accept-Language":"en-US,en;q=0.9"}
 TITLE_RE=re.compile(r'assistant professor|associate professor|open rank|tenure[- ]track|tenured|faculty|professor|lecturer|instructor',re.I)
 CS_RE=re.compile(r'computer science|computing|computer engineering|cyber|security|systems|software|artificial intelligence|machine learning|data science|information science|informatics',re.I)
 NEG_RE=re.compile(r'admission|graduate program|tuition|student job|postdoc|postdoctoral|research assistant|teaching assistant|scholarship|news|event|seminar',re.I)
@@ -26,7 +26,7 @@ def fetch(url):
     url=norm_url(url)
     if not url: return ''
     try:
-        r=requests.get(url,headers=HEADERS,timeout=25,allow_redirects=True)
+        r=requests.get(url,headers=HEADERS,timeout=12,allow_redirects=True)
         ct=r.headers.get('content-type','')
         if 'html' not in ct and 'text' not in ct: return ''
         r.raise_for_status(); return r.text[:3000000]
