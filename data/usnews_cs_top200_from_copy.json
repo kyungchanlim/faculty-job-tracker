@@ -1,0 +1,2002 @@
+[
+  {
+    "usnews_cs_rank":1,
+    "school":"Carnegie Mellon University",
+    "location":"Pittsburgh, PA",
+    "city":"Pittsburgh",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":1,
+    "school":"Massachusetts Institute of Technology",
+    "location":"Cambridge, MA",
+    "city":"Cambridge",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":1,
+    "school":"Stanford University",
+    "location":"Stanford, CA",
+    "city":"Stanford",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":4,
+    "school":"University of California--Berkeley",
+    "location":"Berkeley, CA",
+    "city":"Berkeley",
+    "state":"CA",
+    "tie":false,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":5,
+    "school":"University of Illinois--Urbana-Champaign",
+    "location":"Urbana, IL",
+    "city":"Urbana",
+    "state":"IL",
+    "tie":false,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":6,
+    "school":"Princeton University",
+    "location":"NJ",
+    "city":"",
+    "state":"NJ",
+    "tie":false,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":7,
+    "school":"Cornell University",
+    "location":"Ithaca, NY",
+    "city":"Ithaca",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":7,
+    "school":"Georgia Institute of Technology",
+    "location":"GA",
+    "city":"",
+    "state":"GA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":7,
+    "school":"University of Washington",
+    "location":"Seattle, WA",
+    "city":"Seattle",
+    "state":"WA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":10,
+    "school":"University of Texas--Austin",
+    "location":"Austin, TX",
+    "city":"Austin",
+    "state":"TX",
+    "tie":false,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":11,
+    "school":"University of Michigan--Ann Arbor",
+    "location":"Ann Arbor, MI",
+    "city":"Ann Arbor",
+    "state":"MI",
+    "tie":false,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":12,
+    "school":"California Institute of Technology",
+    "location":"Pasadena, CA",
+    "city":"Pasadena",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":12,
+    "school":"University of California--San Diego",
+    "location":"La Jolla, CA",
+    "city":"La Jolla",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":12,
+    "school":"University of Maryland--College Park",
+    "location":"College Park, MD",
+    "city":"College Park",
+    "state":"MD",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":15,
+    "school":"Columbia University",
+    "location":"NY",
+    "city":"",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":15,
+    "school":"Purdue University--West Lafayette",
+    "location":"West Lafayette, IN",
+    "city":"West Lafayette",
+    "state":"IN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":15,
+    "school":"University of California--Los Angeles",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":15,
+    "school":"University of Wisconsin--Madison",
+    "location":"Madison, WI",
+    "city":"Madison",
+    "state":"WI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":19,
+    "school":"Harvard University",
+    "location":"MA",
+    "city":"",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":19,
+    "school":"University of Pennsylvania",
+    "location":"Philadelphia, PA",
+    "city":"Philadelphia",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":21,
+    "school":"Johns Hopkins University",
+    "location":"Baltimore, MD",
+    "city":"Baltimore",
+    "state":"MD",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":21,
+    "school":"University of Chicago",
+    "location":"IL",
+    "city":"",
+    "state":"IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":21,
+    "school":"University of Southern California",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":21,
+    "school":"Yale University",
+    "location":"New Haven, CT",
+    "city":"New Haven",
+    "state":"CT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":25,
+    "school":"Duke University",
+    "location":"NC",
+    "city":"",
+    "state":"NC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":25,
+    "school":"University of Massachusetts--Amherst",
+    "location":"Amherst, MA",
+    "city":"Amherst",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"Brown University",
+    "location":"Providence, RI",
+    "city":"Providence",
+    "state":"RI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"New York University",
+    "location":"NY",
+    "city":"",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"Northwestern University",
+    "location":"IL",
+    "city":"",
+    "state":"IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"Rice University",
+    "location":"Houston, TX",
+    "city":"Houston",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"University of California--Irvine",
+    "location":"Irvine, CA",
+    "city":"Irvine",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"University of California--Santa Barbara",
+    "location":"Santa Barbara, CA",
+    "city":"Santa Barbara",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":27,
+    "school":"University of North Carolina--Chapel Hill",
+    "location":"Chapel Hill, NC",
+    "city":"Chapel Hill",
+    "state":"NC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":34,
+    "school":"Northeastern University",
+    "location":"Boston, MA",
+    "city":"Boston",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":34,
+    "school":"University of Colorado--Boulder",
+    "location":"Boulder, CO",
+    "city":"Boulder",
+    "state":"CO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":34,
+    "school":"University of Virginia",
+    "location":"VA",
+    "city":"",
+    "state":"VA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":34,
+    "school":"Virginia Tech",
+    "location":"Blacksburg, VA",
+    "city":"Blacksburg",
+    "state":"VA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":38,
+    "school":"Ohio State University",
+    "location":"Columbus, OH",
+    "city":"Columbus",
+    "state":"OH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":38,
+    "school":"Pennsylvania State University--University Park",
+    "location":"University Park, PA",
+    "city":"University Park",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":38,
+    "school":"Texas A&M University--College Station",
+    "location":"College Station, TX",
+    "city":"College Station",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":38,
+    "school":"University of California--Davis",
+    "location":"Davis, CA",
+    "city":"Davis",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":38,
+    "school":"University of Minnesota--Twin Cities",
+    "location":"Minneapolis, MN",
+    "city":"Minneapolis",
+    "state":"MN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":43,
+    "school":"Arizona State University",
+    "location":"Tempe, AZ",
+    "city":"Tempe",
+    "state":"AZ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":43,
+    "school":"Rutgers University--New Brunswick",
+    "location":"Piscataway, NJ",
+    "city":"Piscataway",
+    "state":"NJ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":43,
+    "school":"Stony Brook University--SUNY",
+    "location":"Stony Brook, NY",
+    "city":"Stony Brook",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":46,
+    "school":"Boston University",
+    "location":"MA",
+    "city":"",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":46,
+    "school":"North Carolina State University",
+    "location":"NC",
+    "city":"",
+    "state":"NC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":46,
+    "school":"University of Utah",
+    "location":"UT",
+    "city":"",
+    "state":"UT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":46,
+    "school":"Vanderbilt University",
+    "location":"Nashville, TN",
+    "city":"Nashville",
+    "state":"TN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":46,
+    "school":"Washington University in St. Louis",
+    "location":"St. Louis, MO",
+    "city":"St. Louis",
+    "state":"MO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":51,
+    "school":"Dartmouth College",
+    "location":"NH",
+    "city":"",
+    "state":"NH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":51,
+    "school":"Indiana University--Bloomington",
+    "location":"IN",
+    "city":"",
+    "state":"IN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":51,
+    "school":"University of California--Santa Cruz",
+    "location":"Santa Cruz, CA",
+    "city":"Santa Cruz",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":51,
+    "school":"University of Florida",
+    "location":"Gainesville, FL",
+    "city":"Gainesville",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":51,
+    "school":"University of Pittsburgh",
+    "location":"Pittsburgh, PA",
+    "city":"Pittsburgh",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":56,
+    "school":"Michigan State University",
+    "location":"East Lansing, MI",
+    "city":"East Lansing",
+    "state":"MI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":56,
+    "school":"Tufts University",
+    "location":"Medford, MA",
+    "city":"Medford",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":56,
+    "school":"University of Notre Dame",
+    "location":"IN",
+    "city":"",
+    "state":"IN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":59,
+    "school":"Iowa State University",
+    "location":"Ames, IA",
+    "city":"Ames",
+    "state":"IA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":59,
+    "school":"University of Arizona",
+    "location":"Tucson, AZ",
+    "city":"Tucson",
+    "state":"AZ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":59,
+    "school":"University of California--Riverside",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":59,
+    "school":"University of Illinois Chicago",
+    "location":"IL",
+    "city":"",
+    "state":"IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":59,
+    "school":"University of Rochester",
+    "location":"Rochester, NY",
+    "city":"Rochester",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":59,
+    "school":"University of Texas--Dallas",
+    "location":"Richardson, TX",
+    "city":"Richardson",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":65,
+    "school":"George Mason University",
+    "location":"Fairfax, VA",
+    "city":"Fairfax",
+    "state":"VA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":65,
+    "school":"Toyota Technological Institute at Chicago",
+    "location":"IL",
+    "city":"",
+    "state":"IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":65,
+    "school":"University at Buffalo--SUNY",
+    "location":"Buffalo, NY",
+    "city":"Buffalo",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":65,
+    "school":"University of Central Florida",
+    "location":"FL",
+    "city":"",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"Emory University",
+    "location":"Atlanta, GA",
+    "city":"Atlanta",
+    "state":"GA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"George Washington University",
+    "location":"Washington, DC",
+    "city":"Washington",
+    "state":"DC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"Oregon State University",
+    "location":"Corvallis, OR",
+    "city":"Corvallis",
+    "state":"OR",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"Rensselaer Polytechnic Institute",
+    "location":"NY",
+    "city":"",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"University of Delaware",
+    "location":"Newark, DE",
+    "city":"Newark",
+    "state":"DE",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"University of Iowa",
+    "location":"Iowa City, IA",
+    "city":"Iowa City",
+    "state":"IA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":69,
+    "school":"William & Mary",
+    "location":"Williamsburg, VA",
+    "city":"Williamsburg",
+    "state":"VA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"Case Western Reserve University",
+    "location":"OH",
+    "city":"",
+    "state":"OH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"Georgetown University",
+    "location":"DC",
+    "city":"",
+    "state":"DC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"Rochester Institute of Technology",
+    "location":"NY",
+    "city":"",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"Syracuse University",
+    "location":"Syracuse, NY",
+    "city":"Syracuse",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"University of Georgia",
+    "location":"Athens, GA",
+    "city":"Athens",
+    "state":"GA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"University of Nebraska--Lincoln",
+    "location":"NE",
+    "city":"",
+    "state":"NE",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":76,
+    "school":"University of Tennessee--Knoxville",
+    "location":"Knoxville, TN",
+    "city":"Knoxville",
+    "state":"TN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":83,
+    "school":"Clemson University",
+    "location":"Clemson, SC",
+    "city":"Clemson",
+    "state":"SC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":83,
+    "school":"Colorado School of Mines",
+    "location":"Golden, CO",
+    "city":"Golden",
+    "state":"CO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":83,
+    "school":"University of Maryland, Baltimore County",
+    "location":"Baltimore, MD",
+    "city":"Baltimore",
+    "state":"MD",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":83,
+    "school":"University of Oregon",
+    "location":"Eugene, OR",
+    "city":"Eugene",
+    "state":"OR",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":83,
+    "school":"University of South Florida",
+    "location":"Tampa, FL",
+    "city":"Tampa",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"Auburn University",
+    "location":"Auburn, AL",
+    "city":"Auburn",
+    "state":"AL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"Florida State University",
+    "location":"Tallahassee, FL",
+    "city":"Tallahassee",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"Lehigh University",
+    "location":"PA",
+    "city":"",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"New Jersey Institute of Technology",
+    "location":"Newark, NJ",
+    "city":"Newark",
+    "state":"NJ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"Stevens Institute of Technology",
+    "location":"Hoboken, NJ",
+    "city":"Hoboken",
+    "state":"NJ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"University of Connecticut",
+    "location":"CT",
+    "city":"",
+    "state":"CT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"University of Texas--Arlington",
+    "location":"TX",
+    "city":"",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":88,
+    "school":"Worcester Polytechnic Institute",
+    "location":"Worcester, MA",
+    "city":"Worcester",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"Binghamton University--SUNY",
+    "location":"Binghamton, NY",
+    "city":"Binghamton",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"Colorado State University",
+    "location":"CO",
+    "city":"",
+    "state":"CO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"Drexel University",
+    "location":"Philadelphia, PA",
+    "city":"Philadelphia",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"Illinois Institute of Technology",
+    "location":"Chicago, IL",
+    "city":"Chicago",
+    "state":"IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"Temple University",
+    "location":"Philadelphia, PA",
+    "city":"Philadelphia",
+    "state":"PA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"University of Kansas",
+    "location":"KS",
+    "city":"",
+    "state":"KS",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"University of Kentucky",
+    "location":"KY",
+    "city":"",
+    "state":"KY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"University of North Carolina--Charlotte",
+    "location":"Charlotte, NC",
+    "city":"Charlotte",
+    "state":"NC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"University of South Carolina",
+    "location":"SC",
+    "city":"",
+    "state":"SC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":96,
+    "school":"Washington State University",
+    "location":"WA",
+    "city":"",
+    "state":"WA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"Brandeis University",
+    "location":"Waltham, MA",
+    "city":"Waltham",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"Brigham Young University",
+    "location":"Provo, UT",
+    "city":"Provo",
+    "state":"UT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"Florida International University",
+    "location":"Miami, FL",
+    "city":"Miami",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"Kansas State University",
+    "location":"Manhattan, KS",
+    "city":"Manhattan",
+    "state":"KS",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"Rutgers University--Newark",
+    "location":"NJ",
+    "city":"",
+    "state":"NJ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"Tulane University",
+    "location":"New Orleans, LA",
+    "city":"New Orleans",
+    "state":"LA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"University of California--Merced",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"University of Houston",
+    "location":"Houston, TX",
+    "city":"Houston",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":106,
+    "school":"University of New Mexico",
+    "location":"Albuquerque, NM",
+    "city":"Albuquerque",
+    "state":"NM",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"Georgia State University",
+    "location":"Atlanta, GA",
+    "city":"Atlanta",
+    "state":"GA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"Howard University",
+    "location":"Washington, DC",
+    "city":"Washington",
+    "state":"DC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"Naval Postgraduate School",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"The University of Oklahoma",
+    "location":"Norman, OK",
+    "city":"Norman",
+    "state":"OK",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"The University of Texas--San Antonio",
+    "location":"San Antonio, TX",
+    "city":"San Antonio",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"University at Albany--SUNY",
+    "location":"Albany, NY",
+    "city":"Albany",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"University of Alabama",
+    "location":"Tuscaloosa, AL",
+    "city":"Tuscaloosa",
+    "state":"AL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"University of Cincinnati",
+    "location":"Cincinnati, OH",
+    "city":"Cincinnati",
+    "state":"OH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"University of Hawaii--Manoa",
+    "location":"HI",
+    "city":"",
+    "state":"HI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"University of Missouri",
+    "location":"MO",
+    "city":"",
+    "state":"MO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":115,
+    "school":"Wayne State University",
+    "location":"Detroit, MI",
+    "city":"Detroit",
+    "state":"MI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"Louisiana State University--Baton Rouge",
+    "location":"Baton Rouge, LA",
+    "city":"Baton Rouge",
+    "state":"LA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"Missouri University of Science & Technology",
+    "location":"Rolla, MO",
+    "city":"Rolla",
+    "state":"MO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"Southern Methodist University",
+    "location":"TX",
+    "city":"",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"University of Massachusetts--Boston",
+    "location":"MA",
+    "city":"",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"University of Massachusetts--Lowell",
+    "location":"Lowell, MA",
+    "city":"Lowell",
+    "state":"MA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"University of Miami",
+    "location":"Coral Gables, FL",
+    "city":"Coral Gables",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":126,
+    "school":"University of Vermont",
+    "location":"Burlington, VT",
+    "city":"Burlington",
+    "state":"VT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"CUNY Graduate School and University Center",
+    "location":"New York, NY",
+    "city":"New York",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Florida Atlantic University",
+    "location":"Boca Raton, FL",
+    "city":"Boca Raton",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Indiana University Indianapolis",
+    "location":"IN",
+    "city":"",
+    "state":"IN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Michigan Technological University",
+    "location":"Houghton, MI",
+    "city":"Houghton",
+    "state":"MI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Mississippi State University",
+    "location":"Mississippi State, MS",
+    "city":"Mississippi State",
+    "state":"MS",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Oklahoma State University",
+    "location":"OK",
+    "city":"",
+    "state":"OK",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Texas Tech University",
+    "location":"Lubbock, TX",
+    "city":"Lubbock",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of Arkansas--Fayetteville",
+    "location":"AR",
+    "city":"",
+    "state":"AR",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of Louisiana--Lafayette",
+    "location":"LA",
+    "city":"",
+    "state":"LA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of Nevada--Las Vegas",
+    "location":"Las Vegas, NV",
+    "city":"Las Vegas",
+    "state":"NV",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of New Hampshire",
+    "location":"NH",
+    "city":"",
+    "state":"NH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of North Texas",
+    "location":"TX",
+    "city":"",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of Rhode Island",
+    "location":"Kingston, RI",
+    "city":"Kingston",
+    "state":"RI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of Texas--El Paso",
+    "location":"El Paso, TX",
+    "city":"El Paso",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"University of Wisconsin--Milwaukee",
+    "location":"WI",
+    "city":"",
+    "state":"WI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Utah State University",
+    "location":"UT",
+    "city":"",
+    "state":"UT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"Virginia Commonwealth University",
+    "location":"Richmond, VA",
+    "city":"Richmond",
+    "state":"VA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":133,
+    "school":"West Virginia University",
+    "location":"Morgantown, WV",
+    "city":"Morgantown",
+    "state":"WV",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"Air Force Institute of Technology",
+    "location":"OH",
+    "city":"",
+    "state":"OH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"Boise State University",
+    "location":"Boise, ID",
+    "city":"Boise",
+    "state":"ID",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"DePaul University",
+    "location":"IL",
+    "city":"",
+    "state":"IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"Florida Institute of Technology",
+    "location":"Melbourne, FL",
+    "city":"Melbourne",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"New Mexico State University",
+    "location":"NM",
+    "city":"",
+    "state":"NM",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"Old Dominion University",
+    "location":"Norfolk, VA",
+    "city":"Norfolk",
+    "state":"VA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"Portland State University",
+    "location":"Portland, OR",
+    "city":"Portland",
+    "state":"OR",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"Towson University",
+    "location":"MD",
+    "city":"",
+    "state":"MD",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Alabama at Birmingham",
+    "location":"AL",
+    "city":"",
+    "state":"AL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Colorado--Colorado Springs",
+    "location":"Colorado Springs, CO",
+    "city":"Colorado Springs",
+    "state":"CO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Idaho",
+    "location":"ID",
+    "city":"",
+    "state":"ID",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Louisville",
+    "location":"Louisville, KY",
+    "city":"Louisville",
+    "state":"KY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Maine",
+    "location":"Orono, ME",
+    "city":"Orono",
+    "state":"ME",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Memphis",
+    "location":"Memphis, TN",
+    "city":"Memphis",
+    "state":"TN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Michigan--Dearborn",
+    "location":"Dearborn, MI",
+    "city":"Dearborn",
+    "state":"MI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Mississippi",
+    "location":"MS",
+    "city":"",
+    "state":"MS",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Nebraska--Omaha",
+    "location":"NE",
+    "city":"",
+    "state":"NE",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":151,
+    "school":"University of Wyoming",
+    "location":"Laramie, WY",
+    "city":"Laramie",
+    "state":"WY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Embry-Riddle Aeronautical University -- Daytona Beach",
+    "location":"Daytona Beach, FL",
+    "city":"Daytona Beach",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Kent State University",
+    "location":"Kent, OH",
+    "city":"Kent",
+    "state":"OH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Marquette University",
+    "location":"WI",
+    "city":"",
+    "state":"WI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Montana State University",
+    "location":"MT",
+    "city":"",
+    "state":"MT",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Texas State University",
+    "location":"San Marcos, TX",
+    "city":"San Marcos",
+    "state":"TX",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"University of Alabama--Huntsville",
+    "location":"Huntsville, AL",
+    "city":"Huntsville",
+    "state":"AL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"University of Missouri--Kansas City",
+    "location":"Kansas City, MO",
+    "city":"Kansas City",
+    "state":"MO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"University of Nevada--Reno",
+    "location":"NV",
+    "city":"",
+    "state":"NV",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"University of Tulsa",
+    "location":"Tulsa, OK",
+    "city":"Tulsa",
+    "state":"OK",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Wichita State University",
+    "location":"Wichita, KS",
+    "city":"Wichita",
+    "state":"KS",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":169,
+    "school":"Wright State University",
+    "location":"OH",
+    "city":"",
+    "state":"OH",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"Claremont Graduate University",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"Dakota State University",
+    "location":"Madison, SD",
+    "city":"Madison",
+    "state":"SD",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"New Mexico Institute of Mining and Technology",
+    "location":"Socorro, NM",
+    "city":"Socorro",
+    "state":"NM",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"North Carolina A&T State University",
+    "location":"NC",
+    "city":"",
+    "state":"NC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"North Dakota State University",
+    "location":"Fargo, ND",
+    "city":"Fargo",
+    "state":"ND",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"Southern Illinois University--Carbondale",
+    "location":"Carbondale, IL, IL",
+    "city":"Carbondale",
+    "state":"IL, IL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"University of Arkansas--Little Rock",
+    "location":"AR",
+    "city":"",
+    "state":"AR",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"University of Colorado--Denver",
+    "location":"Denver, CO",
+    "city":"Denver",
+    "state":"CO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"University of Denver",
+    "location":"Denver, CO",
+    "city":"Denver",
+    "state":"CO",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":180,
+    "school":"University of Puerto Rico--Mayaguez",
+    "location":"PR",
+    "city":"",
+    "state":"PR",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":190,
+    "school":"Clarkson University",
+    "location":"NY",
+    "city":"",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":190,
+    "school":"Northern Arizona University",
+    "location":"Flagstaff, AZ",
+    "city":"Flagstaff",
+    "state":"AZ",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":190,
+    "school":"Oakland University",
+    "location":"Rochester, MI",
+    "city":"Rochester",
+    "state":"MI",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":190,
+    "school":"Tennessee Technological University",
+    "location":"Cookeville, TN",
+    "city":"Cookeville",
+    "state":"TN",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":190,
+    "school":"University of New Orleans",
+    "location":"New Orleans, LA",
+    "city":"New Orleans",
+    "state":"LA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":195,
+    "school":"Nova Southeastern University",
+    "location":"Fort Lauderdale, FL",
+    "city":"Fort Lauderdale",
+    "state":"FL",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":195,
+    "school":"Pace University",
+    "location":"New York, NY",
+    "city":"New York",
+    "state":"NY",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":195,
+    "school":"University of Southern Mississippi",
+    "location":"MS",
+    "city":"",
+    "state":"MS",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":198,
+    "school":"Bowie State University",
+    "location":"Bowie, MD",
+    "city":"Bowie",
+    "state":"MD",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":198,
+    "school":"Chapman University",
+    "location":"CA",
+    "city":"",
+    "state":"CA",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  },
+  {
+    "usnews_cs_rank":198,
+    "school":"The Catholic University of America",
+    "location":"Washington, DC",
+    "city":"Washington",
+    "state":"DC",
+    "tie":true,
+    "source":"U.S. News 2026 Best Computer Science Schools",
+    "source_file":"usnews_index_copy.txt"
+  }
+]

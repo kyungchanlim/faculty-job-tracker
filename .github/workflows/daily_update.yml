@@ -1,0 +1,50 @@
+name: Daily Faculty Job Update
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ensure schools.csv exists from U.S. News JSON
+        run: |
+          if [ ! -f data/schools.csv ] && [ -f data/usnews_cs_top200_from_copy.json ]; then
+            python scripts/import_usnews_schools.py --input data/usnews_cs_top200_from_copy.json --out data/schools.csv --top-n 200
+          fi
+
+      - name: Enrich school URLs including CS job listing pages
+        run: |
+          python scripts/enrich_schools.py --overwrite-schools --sleep 0.5
+
+      - name: Collect and build site
+        run: |
+          python scripts/collect_jobs.py
+          python scripts/collect_school_career_pages.py --strict --sleep 0.5
+          python scripts/enrich_jobs.py
+          python scripts/build_site.py
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/schools.csv data/jobs.json data/school_career_candidates.json docs/index.html docs/jobs.json docs/schools.json
+          git diff --cached --quiet || git commit -m "Update CS faculty job openings"
+          git push

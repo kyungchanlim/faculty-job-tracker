@@ -1,0 +1,201 @@
+usnews_cs_rank,school,location,city,state,tie,source,source_file
+1,Carnegie Mellon University,"Pittsburgh, PA",Pittsburgh,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+1,Massachusetts Institute of Technology,"Cambridge, MA",Cambridge,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+1,Stanford University,"Stanford, CA",Stanford,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+4,University of California--Berkeley,"Berkeley, CA",Berkeley,CA,False,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+5,University of Illinois--Urbana-Champaign,"Urbana, IL",Urbana,IL,False,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+6,Princeton University,NJ,,NJ,False,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+7,Cornell University,"Ithaca, NY",Ithaca,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+7,Georgia Institute of Technology,GA,,GA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+7,University of Washington,"Seattle, WA",Seattle,WA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+10,University of Texas--Austin,"Austin, TX",Austin,TX,False,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+11,University of Michigan--Ann Arbor,"Ann Arbor, MI",Ann Arbor,MI,False,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+12,California Institute of Technology,"Pasadena, CA",Pasadena,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+12,University of California--San Diego,"La Jolla, CA",La Jolla,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+12,University of Maryland--College Park,"College Park, MD",College Park,MD,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+15,Columbia University,NY,,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+15,Purdue University--West Lafayette,"West Lafayette, IN",West Lafayette,IN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+15,University of California--Los Angeles,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+15,University of Wisconsin--Madison,"Madison, WI",Madison,WI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+19,Harvard University,MA,,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+19,University of Pennsylvania,"Philadelphia, PA",Philadelphia,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+21,Johns Hopkins University,"Baltimore, MD",Baltimore,MD,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+21,University of Chicago,IL,,IL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+21,University of Southern California,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+21,Yale University,"New Haven, CT",New Haven,CT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+25,Duke University,NC,,NC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+25,University of Massachusetts--Amherst,"Amherst, MA",Amherst,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,Brown University,"Providence, RI",Providence,RI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,New York University,NY,,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,Northwestern University,IL,,IL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,Rice University,"Houston, TX",Houston,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,University of California--Irvine,"Irvine, CA",Irvine,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,University of California--Santa Barbara,"Santa Barbara, CA",Santa Barbara,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+27,University of North Carolina--Chapel Hill,"Chapel Hill, NC",Chapel Hill,NC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+34,Northeastern University,"Boston, MA",Boston,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+34,University of Colorado--Boulder,"Boulder, CO",Boulder,CO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+34,University of Virginia,VA,,VA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+34,Virginia Tech,"Blacksburg, VA",Blacksburg,VA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+38,Ohio State University,"Columbus, OH",Columbus,OH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+38,Pennsylvania State University--University Park,"University Park, PA",University Park,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+38,Texas A&M University--College Station,"College Station, TX",College Station,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+38,University of California--Davis,"Davis, CA",Davis,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+38,University of Minnesota--Twin Cities,"Minneapolis, MN",Minneapolis,MN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+43,Arizona State University,"Tempe, AZ",Tempe,AZ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+43,Rutgers University--New Brunswick,"Piscataway, NJ",Piscataway,NJ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+43,Stony Brook University--SUNY,"Stony Brook, NY",Stony Brook,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+46,Boston University,MA,,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+46,North Carolina State University,NC,,NC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+46,University of Utah,UT,,UT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+46,Vanderbilt University,"Nashville, TN",Nashville,TN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+46,Washington University in St. Louis,"St. Louis, MO",St. Louis,MO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+51,Dartmouth College,NH,,NH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+51,Indiana University--Bloomington,IN,,IN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+51,University of California--Santa Cruz,"Santa Cruz, CA",Santa Cruz,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+51,University of Florida,"Gainesville, FL",Gainesville,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+51,University of Pittsburgh,"Pittsburgh, PA",Pittsburgh,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+56,Michigan State University,"East Lansing, MI",East Lansing,MI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+56,Tufts University,"Medford, MA",Medford,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+56,University of Notre Dame,IN,,IN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+59,Iowa State University,"Ames, IA",Ames,IA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+59,University of Arizona,"Tucson, AZ",Tucson,AZ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+59,University of California--Riverside,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+59,University of Illinois Chicago,IL,,IL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+59,University of Rochester,"Rochester, NY",Rochester,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+59,University of Texas--Dallas,"Richardson, TX",Richardson,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+65,George Mason University,"Fairfax, VA",Fairfax,VA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+65,Toyota Technological Institute at Chicago,IL,,IL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+65,University at Buffalo--SUNY,"Buffalo, NY",Buffalo,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+65,University of Central Florida,FL,,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,Emory University,"Atlanta, GA",Atlanta,GA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,George Washington University,"Washington, DC",Washington,DC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,Oregon State University,"Corvallis, OR",Corvallis,OR,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,Rensselaer Polytechnic Institute,NY,,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,University of Delaware,"Newark, DE",Newark,DE,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,University of Iowa,"Iowa City, IA",Iowa City,IA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+69,William & Mary,"Williamsburg, VA",Williamsburg,VA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,Case Western Reserve University,OH,,OH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,Georgetown University,DC,,DC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,Rochester Institute of Technology,NY,,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,Syracuse University,"Syracuse, NY",Syracuse,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,University of Georgia,"Athens, GA",Athens,GA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,University of Nebraska--Lincoln,NE,,NE,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+76,University of Tennessee--Knoxville,"Knoxville, TN",Knoxville,TN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+83,Clemson University,"Clemson, SC",Clemson,SC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+83,Colorado School of Mines,"Golden, CO",Golden,CO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+83,"University of Maryland, Baltimore County","Baltimore, MD",Baltimore,MD,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+83,University of Oregon,"Eugene, OR",Eugene,OR,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+83,University of South Florida,"Tampa, FL",Tampa,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,Auburn University,"Auburn, AL",Auburn,AL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,Florida State University,"Tallahassee, FL",Tallahassee,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,Lehigh University,PA,,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,New Jersey Institute of Technology,"Newark, NJ",Newark,NJ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,Stevens Institute of Technology,"Hoboken, NJ",Hoboken,NJ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,University of Connecticut,CT,,CT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,University of Texas--Arlington,TX,,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+88,Worcester Polytechnic Institute,"Worcester, MA",Worcester,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,Binghamton University--SUNY,"Binghamton, NY",Binghamton,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,Colorado State University,CO,,CO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,Drexel University,"Philadelphia, PA",Philadelphia,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,Illinois Institute of Technology,"Chicago, IL",Chicago,IL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,Temple University,"Philadelphia, PA",Philadelphia,PA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,University of Kansas,KS,,KS,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,University of Kentucky,KY,,KY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,University of North Carolina--Charlotte,"Charlotte, NC",Charlotte,NC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,University of South Carolina,SC,,SC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+96,Washington State University,WA,,WA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,Brandeis University,"Waltham, MA",Waltham,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,Brigham Young University,"Provo, UT",Provo,UT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,Florida International University,"Miami, FL",Miami,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,Kansas State University,"Manhattan, KS",Manhattan,KS,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,Rutgers University--Newark,NJ,,NJ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,Tulane University,"New Orleans, LA",New Orleans,LA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,University of California--Merced,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,University of Houston,"Houston, TX",Houston,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+106,University of New Mexico,"Albuquerque, NM",Albuquerque,NM,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,Georgia State University,"Atlanta, GA",Atlanta,GA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,Howard University,"Washington, DC",Washington,DC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,Naval Postgraduate School,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,The University of Oklahoma,"Norman, OK",Norman,OK,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,The University of Texas--San Antonio,"San Antonio, TX",San Antonio,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,University at Albany--SUNY,"Albany, NY",Albany,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,University of Alabama,"Tuscaloosa, AL",Tuscaloosa,AL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,University of Cincinnati,"Cincinnati, OH",Cincinnati,OH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,University of Hawaii--Manoa,HI,,HI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,University of Missouri,MO,,MO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+115,Wayne State University,"Detroit, MI",Detroit,MI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,Louisiana State University--Baton Rouge,"Baton Rouge, LA",Baton Rouge,LA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,Missouri University of Science & Technology,"Rolla, MO",Rolla,MO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,Southern Methodist University,TX,,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,University of Massachusetts--Boston,MA,,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,University of Massachusetts--Lowell,"Lowell, MA",Lowell,MA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,University of Miami,"Coral Gables, FL",Coral Gables,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+126,University of Vermont,"Burlington, VT",Burlington,VT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,CUNY Graduate School and University Center,"New York, NY",New York,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Florida Atlantic University,"Boca Raton, FL",Boca Raton,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Indiana University Indianapolis,IN,,IN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Michigan Technological University,"Houghton, MI",Houghton,MI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Mississippi State University,"Mississippi State, MS",Mississippi State,MS,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Oklahoma State University,OK,,OK,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Texas Tech University,"Lubbock, TX",Lubbock,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of Arkansas--Fayetteville,AR,,AR,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of Louisiana--Lafayette,LA,,LA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of Nevada--Las Vegas,"Las Vegas, NV",Las Vegas,NV,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of New Hampshire,NH,,NH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of North Texas,TX,,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of Rhode Island,"Kingston, RI",Kingston,RI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of Texas--El Paso,"El Paso, TX",El Paso,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,University of Wisconsin--Milwaukee,WI,,WI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Utah State University,UT,,UT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,Virginia Commonwealth University,"Richmond, VA",Richmond,VA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+133,West Virginia University,"Morgantown, WV",Morgantown,WV,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,Air Force Institute of Technology,OH,,OH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,Boise State University,"Boise, ID",Boise,ID,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,DePaul University,IL,,IL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,Florida Institute of Technology,"Melbourne, FL",Melbourne,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,New Mexico State University,NM,,NM,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,Old Dominion University,"Norfolk, VA",Norfolk,VA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,Portland State University,"Portland, OR",Portland,OR,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,Towson University,MD,,MD,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Alabama at Birmingham,AL,,AL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Colorado--Colorado Springs,"Colorado Springs, CO",Colorado Springs,CO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Idaho,ID,,ID,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Louisville,"Louisville, KY",Louisville,KY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Maine,"Orono, ME",Orono,ME,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Memphis,"Memphis, TN",Memphis,TN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Michigan--Dearborn,"Dearborn, MI",Dearborn,MI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Mississippi,MS,,MS,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Nebraska--Omaha,NE,,NE,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+151,University of Wyoming,"Laramie, WY",Laramie,WY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Embry-Riddle Aeronautical University -- Daytona Beach,"Daytona Beach, FL",Daytona Beach,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Kent State University,"Kent, OH",Kent,OH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Marquette University,WI,,WI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Montana State University,MT,,MT,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Texas State University,"San Marcos, TX",San Marcos,TX,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,University of Alabama--Huntsville,"Huntsville, AL",Huntsville,AL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,University of Missouri--Kansas City,"Kansas City, MO",Kansas City,MO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,University of Nevada--Reno,NV,,NV,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,University of Tulsa,"Tulsa, OK",Tulsa,OK,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Wichita State University,"Wichita, KS",Wichita,KS,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+169,Wright State University,OH,,OH,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,Claremont Graduate University,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,Dakota State University,"Madison, SD",Madison,SD,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,New Mexico Institute of Mining and Technology,"Socorro, NM",Socorro,NM,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,North Carolina A&T State University,NC,,NC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,North Dakota State University,"Fargo, ND",Fargo,ND,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,Southern Illinois University--Carbondale,"Carbondale, IL, IL",Carbondale,"IL, IL",True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,University of Arkansas--Little Rock,AR,,AR,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,University of Colorado--Denver,"Denver, CO",Denver,CO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,University of Denver,"Denver, CO",Denver,CO,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+180,University of Puerto Rico--Mayaguez,PR,,PR,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+190,Clarkson University,NY,,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+190,Northern Arizona University,"Flagstaff, AZ",Flagstaff,AZ,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+190,Oakland University,"Rochester, MI",Rochester,MI,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+190,Tennessee Technological University,"Cookeville, TN",Cookeville,TN,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+190,University of New Orleans,"New Orleans, LA",New Orleans,LA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+195,Nova Southeastern University,"Fort Lauderdale, FL",Fort Lauderdale,FL,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+195,Pace University,"New York, NY",New York,NY,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+195,University of Southern Mississippi,MS,,MS,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+198,Bowie State University,"Bowie, MD",Bowie,MD,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+198,Chapman University,CA,,CA,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
+198,The Catholic University of America,"Washington, DC",Washington,DC,True,U.S. News 2026 Best Computer Science Schools,usnews_index_copy.txt
