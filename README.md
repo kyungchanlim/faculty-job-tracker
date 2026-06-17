@@ -1,6 +1,6 @@
 # CS Faculty Job Tracker
 
-GitHub Pages tracker for assistant-professor / faculty openings at U.S. News CS top-200 schools.
+GitHub Pages tracker for assistant-professor / faculty openings at U.S. News CS 200-school set.
 
 ## Data file used by the code
 
@@ -98,7 +98,7 @@ The workflow `.github/workflows/daily_update.yml` runs once per day.  It updates
 ## Files
 
 ```text
-data/usnews_cs_top200_from_copy.json   # original extracted ranking data
+data/usnews_cs_top200_from_copy.json   # original extracted source list data
 data/usnews_cs_top200_from_copy.csv    # same data in CSV
 data/schools.csv                       # canonical input for all scripts
 scripts/import_usnews_schools.py       # JSON/CSV/TXT -> data/schools.csv
