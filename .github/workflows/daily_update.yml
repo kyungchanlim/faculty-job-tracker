@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repo
@@ -28,32 +29,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Import U.S. News top 200 schools
+      - name: Ensure schools.csv exists from U.S. News JSON
         run: |
-          if [ -f data/usnews_cs_top200_from_copy.json ]; then
+          if [ ! -f data/schools.csv ] && [ -f data/usnews_cs_top200_from_copy.json ]; then
             python scripts/import_usnews_schools.py \
               --input data/usnews_cs_top200_from_copy.json \
               --out data/schools.csv \
               --top-n 200
-          else
-            echo "data/usnews_cs_top200_from_copy.json not found; using existing data/schools.csv"
           fi
 
-      - name: Enrich school URLs including CS job listing pages
+      - name: Enrich missing school URLs only
         run: |
-          python scripts/enrich_schools.py \
-            --overwrite-schools \
-            --sleep 0.5
+          python scripts/enrich_schools.py --sleep 0.2
 
       - name: Collect general job board openings
         run: |
-          python scripts/collect_jobs.py
+          python scripts/collect_jobs.py || true
 
       - name: Collect school CS/faculty career pages
         run: |
-          python scripts/collect_school_career_pages.py \
-            --strict \
-            --sleep 0.5
+          python scripts/collect_school_career_pages.py --strict --sleep 0.2
 
       - name: Enrich jobs
         run: |
@@ -63,7 +58,7 @@ jobs:
         run: |
           python scripts/build_site.py
 
-      - name: Commit and push updates
+      - name: Commit updates
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
