@@ -2,8 +2,6 @@ name: Daily Faculty Job Update
 
 on:
   schedule:
-    # 매일 UTC 10:00 실행
-    # 미국 Eastern 기준 대략 새벽 5시/6시
     - cron: "0 10 * * *"
   workflow_dispatch:
 
