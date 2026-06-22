@@ -47,7 +47,7 @@
     "state": "NY",
     "school_rank": "15",
     "rank": "Assistant Professor",
-    "track": "faculty",
+    "track": "tenure-track",
     "field": [
       "computer science"
     ],
@@ -60,6 +60,126 @@
     "status": "open"
   },
   {
+    "id": "5f1047a78a7fe301",
+    "title": "Assistant Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-madison-wisconsin-united-states-312ae67c-93cf-4f26-a888-f8fcfaf95207",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "d339d11b3b7aae0d",
+    "title": "Assistant Professor Notice of Filing",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-notice-of-filing-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "6c49685bd9418b63",
+    "title": "Assistant Professor Small Animal Internal Medicine (SAIM)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-internal-medicine-saim-madison-wisconsin-united-states-dd852232-0dcb-4196-a8be-95ece81e7a85",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "172b4ad328224dd5",
+    "title": "Assistant Professor in Finance, Investment, and Banking Notice of Filing",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-in-finance-investment-and-banking-notice-of-filing-madison-wisconsin-united-states-458b61cb-f9b9-444b-af7a-64d0e7e3efdb",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "bc7adbedf1d95ef7",
+    "title": "Assistant Professor in Marketing",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-in-marketing-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "2d5c17905543e5b3",
+    "title": "Assistant Professor in Real Estate & Urban Land Economics Notice of Filing",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-in-real-estate-urban-land-economics-notice-of-filing-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
     "id": "d27e9d27fddf5305",
     "title": "Assistant Professor of Computer Sciences: RISE-THRIVE",
     "school": "University of Wisconsin--Madison",
@@ -67,8 +187,9 @@
     "state": "WI",
     "school_rank": "15",
     "rank": "Assistant Professor",
-    "track": "faculty",
+    "track": "tenure-track",
     "field": [
+      "AI/ML",
       "computer science"
     ],
     "deadline": "",
@@ -87,7 +208,7 @@
     "state": "WI",
     "school_rank": "15",
     "rank": "Assistant Professor",
-    "track": "faculty",
+    "track": "tenure-track",
     "field": [
       "AI/ML"
     ],
@@ -100,20 +221,160 @@
     "status": "open"
   },
   {
+    "id": "30af769af506fe90",
+    "title": "Assistant Professor of Philosophy",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-philosophy-madison-wisconsin-united-states-40aa2241-b457-4965-b31a-19a464a0fe2f",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "30912d06aadfb7b2",
+    "title": "Assistant Professor of Political Science",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "90a7f7343ba4168a",
+    "title": "Assistant Professor of Sociology",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-sociology-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "c6e2df80783fb722",
+    "title": "Assistant Professor, Large Animal Surgery",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-large-animal-surgery-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "683fbbef7b63ddba",
+    "title": "Assistant Professor, Small Animal Oncologic Surgery",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-oncologic-surgery-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "5cf7959f21b491df",
+    "title": "Assistant or Associate Professor of Scenic Design",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-of-scenic-design-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
     "id": "6a6913e6d3c08f4a",
     "title": "Assistant, Associate, or Full Professor in AI & Machine Learning in Polymeric Materials (RISE-AI)",
     "school": "University of Wisconsin--Madison",
     "location": "Madison, WI",
     "state": "WI",
     "school_rank": "15",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
     "field": [
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-in-ai-machine-learning-in-polymeric-materials-rise-ai-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "0bc96330f15ee439",
+    "title": "Assistant, Associate, or Full Professor in Materials Science & Engineering",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-in-materials-science-engineering-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
@@ -140,20 +401,101 @@
     "status": "open"
   },
   {
+    "id": "d25a5aac82b0ed49",
+    "title": "Assistant/Associate Professor in Food and Nutritional Sciences",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-professor-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
     "id": "f58fb34db6b2619a",
     "title": "Assistant/Associate/Full Professor in Electrical and Computer Engineering (Quantum Engineering)",
     "school": "University of Wisconsin--Madison",
     "location": "Madison, WI",
     "state": "WI",
     "school_rank": "15",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
     "field": [
+      "AI/ML",
       "computer engineering"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-electrical-and-computer-engineering-quantum-engineering-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "b9842060f4707aee",
+    "title": "Assistant/Associate/Full Professor in Nuclear Engineering & Engineering Physics (Fission/Fusion Technology)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-nuclear-engineering-engineering-physics-fission-fusion-technology-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "99640f8213ba3dfc",
+    "title": "Assistant/Associate/Full Professor in Nuclear Engineering & Engineering Physics (Plasma Theory and Computation)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-nuclear-engineering-engineering-physics-plasma-theory-and-computation-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "659a1da570b269b8",
+    "title": "Assistant/Associate/Full Professor in Nuclear Engineering & Engineering Physics (Radiochemistry)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-nuclear-engineering-engineering-physics-radiochemistry-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
@@ -166,8 +508,8 @@
     "location": "Madison, WI",
     "state": "WI",
     "school_rank": "15",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
     "field": [
       "AI/ML"
     ],
@@ -180,13 +522,133 @@
     "status": "open"
   },
   {
+    "id": "f5c1308334d19263",
+    "title": "Associate Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/associate-professor-madison-wisconsin-united-states-0af0d7ce-1e07-4da7-8814-06cb5ed1f933",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "8ab4627ced529156",
+    "title": "Associate Professor of Graphic Design -Tenure Track",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/associate-professor-of-graphic-design-tenure-track-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "31c8f4e6ef739816",
+    "title": "Full Professor, Department of Political Science",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/full-professor-department-of-political-science-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "533a2fc2478980ee",
+    "title": "Professor of History",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/professor-of-history-madison-wisconsin-united-states-0cd8d959-ee62-4586-a814-399d58b744f4",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "39e332da3f13e5c2",
+    "title": "Professor of Statistics (RISE-AI)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/professor-of-statistics-rise-ai-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "3d7c302e2d36c231",
+    "title": "Tenured or Tenure Track Faculty in Food and Nutritional Sciences",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/tenured-or-tenure-track-faculty-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
     "id": "00b21894c6529513",
     "title": "Adjunct Professor of Computer Science (Open-Rank) – MPCS",
     "school": "University of Chicago",
     "location": "IL",
     "state": "IL",
     "school_rank": "21",
-    "rank": "Professor",
+    "rank": "Assistant Professor",
     "track": "faculty",
     "field": [
       "computer science"
@@ -287,8 +749,8 @@
     "location": "University Park, PA",
     "state": "PA",
     "school_rank": "38",
-    "rank": "Open Rank",
-    "track": "open-rank",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
     "field": [
       "AI/ML",
       "computer science"
@@ -302,6 +764,90 @@
     "status": "open"
   },
   {
+    "id": "45694ab1618f3ac3",
+    "title": "Open Rank Tenure-Track Faculty in Industrial Engineering",
+    "school": "Pennsylvania State University--University Park",
+    "location": "University Park, PA",
+    "state": "PA",
+    "school_rank": "38",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
+    "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "cbcd50dc4162133a",
+    "title": "Professional Track Teaching Faculty Positions in Architectural Engineering",
+    "school": "Pennsylvania State University--University Park",
+    "location": "University Park, PA",
+    "state": "PA",
+    "school_rank": "38",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
+    "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "86493108cc8b2f8d",
+    "title": "Tenure-Line Assistant Professor, College of Engineering, Department of Aerospace Engineering",
+    "school": "Pennsylvania State University--University Park",
+    "location": "University Park, PA",
+    "state": "PA",
+    "school_rank": "38",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
+    "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "e351dd6846a1f598",
+    "title": "Tenure-Track Faculty Positions in Structural Engineering",
+    "school": "Pennsylvania State University--University Park",
+    "location": "University Park, PA",
+    "state": "PA",
+    "school_rank": "38",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000072694",
+    "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
     "id": "a490e22618dfdb3c",
     "title": "Assistant Professor: Digital Technology, Machine Learning and AI in Agriculture Communications and Education",
     "school": "North Carolina State University",
@@ -309,7 +855,7 @@
     "state": "NC",
     "school_rank": "46",
     "rank": "Assistant Professor",
-    "track": "faculty",
+    "track": "tenure-track",
     "field": [
       "AI/ML"
     ],
@@ -317,6 +863,227 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "7f913578375a50c9",
+    "title": "tenure-track Assistant Professor",
+    "school": "Vanderbilt University",
+    "location": "Nashville, TN",
+    "state": "TN",
+    "school_rank": "46",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://apply.interfolio.com/173609",
+    "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "cc50d18d86a691e1",
+    "title": "Assistant/Associate/Full Professor - Classical Hematology",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/536501/assistantassociatefull-professor-classical-hematology",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "46ad31826e9143e4",
+    "title": "Clinical Assistant/Associate Professor - Family Medicine",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540298/clinical-assistantassociate-professor-family-medicine",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "785cb4ed48abebcc",
+    "title": "Clinical Assistant/Associate Professor - Family Medicine",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540300/clinical-assistantassociate-professor-family-medicine",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "1b532d5db9df4f34",
+    "title": "Clinical Assistant/Associate Professor - Family Medicine",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540302/clinical-assistantassociate-professor-family-medicine",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "0ed456acf3f0ca09",
+    "title": "EMS Medical Director - Clinical Assistant/Associate/Full Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540182/ems-medical-director-clinical-assistantassociatefull-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "d4809b45548bfcff",
+    "title": "Hematopathology/ Surgical Pathologist - Clinical Assistant/Associate Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540318/hematopathology-surgical-pathologist-clinical-assistantassociate-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "eedce4ddcd11719f",
+    "title": "LECTURER",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540289/lecturer",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "3e22bc0705319c0e",
+    "title": "Lecturer/Assistant Instructional Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540290/lecturerassistant-instructional-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "034fe0f205686c15",
+    "title": "Lecturer/Instructional Assistant Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540264/lecturerinstructional-assistant-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "status": "open"
+  },
+  {
+    "id": "26135600e6711df2",
+    "title": "Lecturer/Senior Lecturer/Master Lecturer",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540293/lecturersenior-lecturermaster-lecturer",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
     "status": "open"
