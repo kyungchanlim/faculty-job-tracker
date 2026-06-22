@@ -14,7 +14,9 @@ ROOT=Path(__file__).resolve().parents[1]
 DEFAULT_SCHOOLS=ROOT/'data/schools.csv'; DEFAULT_JOBS=ROOT/'data/jobs.json'; DEFAULT_CANDIDATES=ROOT/'data/school_career_candidates.json'
 TODAY=date.today().isoformat()
 HEADERS={"User-Agent":"Mozilla/5.0 (compatible; faculty-job-tracker/0.4; educational research)","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","Accept-Language":"en-US,en;q=0.9"}
-TITLE_RE=re.compile(r'assistant professor|associate professor|open rank|tenure[- ]track|tenured|faculty|professor|lecturer|instructor',re.I)
+TITLE_RE=re.compile(r'assistant professor|associate professor|full professor|open rank|tenure[- ]track|tenured faculty|faculty (?:position|opening|search)|professor of|lecturer|instructor',re.I)
+NON_JOB_RE=re.compile(r'/faculty-research/|/research(?:/|$)|[?&]fwp_research=|/people(?:/|$)|/directory(?:/|$)|/academics/faculty/|/(?:19|20)\d{2}/\d{2}/',re.I)
+JOB_URL_RE=re.compile(r'apply\.interfolio\.com|recruit\.ap\.|/jobs?/|/postings?/|job_?req|academic-positions|faculty-(?:jobs|openings|positions)|open-positions|careers?\.',re.I)
 CS_RE=re.compile(r'computer science|computing|computer engineering|cyber|security|systems|software|artificial intelligence|machine learning|data science|information science|informatics',re.I)
 NEG_RE=re.compile(r'admission|graduate program|tuition|student job|postdoc|postdoctoral|research assistant|teaching assistant|scholarship|news|event|seminar',re.I)
 
@@ -70,12 +72,14 @@ def extract(school,page_url,html,strict):
     soup=BeautifulSoup(html,'html.parser'); out=[]
     for a in soup.find_all('a',href=True):
         title=clean(a.get_text(' ',strip=True)); href=urljoin(page_url,a['href']).split('#')[0]
-        hay=f'{title} {href}'
-        if not href.startswith('http') or NEG_RE.search(hay): continue
-        th=TITLE_RE.search(hay); ch=CS_RE.search(hay)
-        if (strict and th and ch) or ((not strict) and (th or ch)): out.append(build_job(school,title or 'Faculty opening',href,hay,page_url))
-    page_text=clean(soup.get_text(' ',strip=True))[:10000]
-    if TITLE_RE.search(page_text) and CS_RE.search(page_text) and not NEG_RE.search(page_text[:500]): out.append(build_job(school,'Faculty job search page',page_url,page_text,page_url))
+        context=clean(' '.join(p.get_text(' ',strip=True)[:1000] for p in list(a.parents)[:3]))
+        hay=f'{title} {href} {context}'
+        if not href.startswith('http') or NEG_RE.search(hay) or NON_JOB_RE.search(href): continue
+        # The link text itself must describe a position.  CS terms may come from
+        # nearby context, but generic research-area/faculty-directory links are excluded.
+        th=TITLE_RE.search(title); ch=CS_RE.search(hay)
+        if th and (ch or not strict) and JOB_URL_RE.search(href):
+            out.append(build_job(school,title or 'Faculty opening',href,context,page_url))
     return out
 def start_urls(school):
     urls=[]
