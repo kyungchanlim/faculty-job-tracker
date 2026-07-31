@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "baaddd4bfc6471cc",
+    "title": "Assistant Research Scientist (PREP0004961)",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179513674&Title=Assistant%20Research%20Scientist%20%28PREP0004961%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
+    "status": "open"
+  }
+]
