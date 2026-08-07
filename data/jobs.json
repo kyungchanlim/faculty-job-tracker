@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -75,8 +75,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-madison-wisconsin-united-states-312ae67c-93cf-4f26-a888-f8fcfaf95207",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -95,8 +95,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-tenure-track-madison-wisconsin-united-states-9b4706b1-547f-4c83-b524-144da7c1d261",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -141,6 +141,26 @@
     "status": "open"
   },
   {
+    "id": "61767cec27b828b1",
+    "title": "Assistant Professor Small Animal Internal Medicine (SAIM)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-internal-medicine-saim-madison-wisconsin-united-states-5610b8fc-30c9-465e-a3bf-56127387340d",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
+    "status": "open"
+  },
+  {
     "id": "172b4ad328224dd5",
     "title": "Assistant Professor in Finance, Investment, and Banking Notice of Filing",
     "school": "University of Wisconsin--Madison",
@@ -177,8 +197,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-in-marketing-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -239,8 +259,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-emergency-and-critical-care-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -259,8 +279,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -279,8 +299,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-philosophy-madison-wisconsin-united-states-40aa2241-b457-4965-b31a-19a464a0fe2f",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -319,8 +339,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -339,8 +359,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-rise-earth-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -359,8 +379,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-public-policy-market-based-solutions-to-societal-challenges-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -379,8 +399,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-sociology-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -420,8 +440,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-associate-professor-professor-health-services-research-in-pharmacy-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -440,8 +460,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-large-animal-surgery-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -460,8 +480,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-oncologic-surgery-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -480,8 +500,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-k-12-leadership-madison-wisconsin-united-states-c05e4b3f-168e-4333-b57e-7eff934aa9f9",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -500,8 +520,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-of-scenic-design-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -520,8 +540,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states-bae6d1ce-89fa-4290-b951-457b78c1aced",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -540,8 +560,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -560,8 +580,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-energy-and-sustainability-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -580,8 +600,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-health-and-aging-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -600,8 +620,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-state-and-local-democracy-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -704,8 +724,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -744,8 +764,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-professor-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -869,8 +889,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-artificial-intelligence-for-veterinary-medicine-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -930,8 +950,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/full-professor-department-of-political-science-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -950,8 +970,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/general-internal-medicine-faculty-researcher-assistant-associate-or-full-professor-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -970,8 +990,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/professor-of-history-madison-wisconsin-united-states-0cd8d959-ee62-4586-a814-399d58b744f4",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -1010,8 +1030,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/tenured-or-tenure-track-faculty-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -1735,8 +1755,8 @@
     "source": "CS/school career page",
     "source_url": "http://apply.interfolio.com/170816",
     "source_page": "https://cs.uchicago.edu/about/job-openings/",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -1916,8 +1936,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/adjunct-lecturer-physical-computing/1209/98715628112",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -1956,8 +1976,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/adjunct-professor-of-film-and-television-production-producing/1209/97786063344",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -1976,8 +1996,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/adjunct-professor-of-film-and-television-production-virtual-production/1209/98386110768",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2061,6 +2081,26 @@
     "status": "open"
   },
   {
+    "id": "5bf471c1a6fd8508",
+    "title": "Assistant Professor of Clinical Obstetrics and Gynecology Los Angeles, CA",
+    "school": "University of Southern California",
+    "location": "CA",
+    "state": "CA",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-of-clinical-obstetrics-and-gynecology/1209/98860067104",
+    "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
+    "status": "open"
+  },
+  {
     "id": "dc8875d3fd76afa8",
     "title": "Assistant Professor of Clinical Otolaryngology Head and Neck Surgery Los Angeles, CA",
     "school": "University of Southern California",
@@ -2136,8 +2176,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-of-research/1209/98829124672",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2156,8 +2196,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-or-associate-professor-of-clinical-otolaryngology-head-and-neck-surgery-chla/1209/60632242896",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2196,8 +2236,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-associate-or-professor-of-stem-cell-biology-and-regenerative-medicine-cardiovascular-rege/1209/98503542704",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2236,8 +2276,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/associate-or-assistant-professor-of-clinical-obstetrics-and-gynecology-minimally-invasive-gynecolog/1209/98098212960",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2336,8 +2376,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-assistant-professor-of-neurology-and-pediatrics-practitioner-division-of-neurology-chla/1209/98579688768",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2396,8 +2436,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-assistant-professor-of-psychiatry-and-the-behavioral-sciences-clinician-educator/1209/93523386736",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2476,8 +2516,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-associate-assistant-professor-of-medical-education-clinician-educator/1209/96857551248",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2541,6 +2581,26 @@
     "status": "open"
   },
   {
+    "id": "d2ed739e1f1d5e88",
+    "title": "Full-Time, Teaching-Track Faculty Positions in Biological Sciences Los Angeles, CA",
+    "school": "University of Southern California",
+    "location": "CA",
+    "state": "CA",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://usccareers.usc.edu/job/los-angeles/full-time-teaching-track-faculty-positions-in-biological-sciences/1209/98854765984",
+    "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
+    "status": "open"
+  },
+  {
     "id": "651a84fc649e6332",
     "title": "Nurse Practitioner/Physician Assistant Clinical Instructor of Emergency Medicine (Practitioner) Arcadia, CA",
     "school": "University of Southern California",
@@ -2596,8 +2656,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/open-rank-professor-of-interactive-media-and-games-game-art-and-animation/1209/93523387920",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2616,8 +2676,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/pt-adjunct-lecturer/1209/98432271728",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2736,8 +2796,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2758,8 +2818,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2780,8 +2840,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2802,8 +2862,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2822,8 +2882,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2863,8 +2923,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2884,8 +2944,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2905,8 +2965,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2926,8 +2986,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2967,8 +3027,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -2988,8 +3048,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
@@ -3890,8 +3950,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
     "status": "open"
   },
   {
