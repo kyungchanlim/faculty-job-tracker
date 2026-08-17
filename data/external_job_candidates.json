@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "e6fd8298954c3b9c",
+    "title": "Tenure-Track Assistant Professor of Management Information Systems",
+    "school": "George Mason University",
+    "location": "Fairfax, VA",
+    "state": "VA",
+    "school_rank": "65",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179528656&Title=Tenure%2DTrack%20Assistant%20Professor%20of%20Management%20Information%20Systems",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "status": "open"
+  }
+]
