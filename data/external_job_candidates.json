@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "662006c2d1a69de9",
+    "title": "HR Systems Data Analyst",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Associate Professor",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179534579&Title=HR%20Systems%20Data%20Analyst",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "status": "open"
+  }
+]

@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -55,8 +55,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -75,8 +75,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-madison-wisconsin-united-states-312ae67c-93cf-4f26-a888-f8fcfaf95207",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -95,8 +95,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-tenure-track-madison-wisconsin-united-states-9b4706b1-547f-4c83-b524-144da7c1d261",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -156,8 +156,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-internal-medicine-saim-madison-wisconsin-united-states-5610b8fc-30c9-465e-a3bf-56127387340d",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -197,8 +197,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-in-marketing-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -220,6 +220,26 @@
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
+    "status": "open"
+  },
+  {
+    "id": "3faeb628eb1d64a7",
+    "title": "Assistant Professor of Communication Science - RISE EARTH",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-communication-science-rise-earth-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -259,8 +279,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-emergency-and-critical-care-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -279,8 +299,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -299,8 +319,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-philosophy-madison-wisconsin-united-states-40aa2241-b457-4965-b31a-19a464a0fe2f",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -339,8 +359,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -359,8 +379,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-madison-wisconsin-united-states-c36b8116-680d-4074-850d-9c95be04a387",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -379,8 +399,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-rise-earth-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -399,8 +419,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-public-policy-market-based-solutions-to-societal-challenges-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -419,8 +439,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-sociology-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -460,8 +480,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-associate-professor-professor-health-services-research-in-pharmacy-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -480,8 +500,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-large-animal-surgery-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -520,8 +540,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-k-12-leadership-madison-wisconsin-united-states-c05e4b3f-168e-4333-b57e-7eff934aa9f9",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -560,8 +580,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states-bae6d1ce-89fa-4290-b951-457b78c1aced",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -580,8 +600,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -600,8 +620,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-energy-and-sustainability-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -620,8 +640,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-health-and-aging-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -640,8 +660,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-state-and-local-democracy-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -744,8 +764,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -784,8 +804,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-professor-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -909,8 +929,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-artificial-intelligence-for-veterinary-medicine-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -970,8 +990,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/full-professor-department-of-political-science-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -990,8 +1010,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/general-internal-medicine-faculty-researcher-assistant-associate-or-full-professor-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -1010,8 +1030,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/otolaryngology-head-neck-surgeon-scientist-assistant-associate-or-full-professor-tenure-track-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -1030,8 +1050,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/professor-of-history-madison-wisconsin-united-states-0cd8d959-ee62-4586-a814-399d58b744f4",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -1070,8 +1090,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/tenured-or-tenure-track-faculty-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -1467,6 +1487,26 @@
     "status": "open"
   },
   {
+    "id": "662006c2d1a69de9",
+    "title": "HR Systems Data Analyst",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Associate Professor",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179534579&Title=HR%20Systems%20Data%20Analyst",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "status": "open"
+  },
+  {
     "id": "e433587225decfe1",
     "title": "Human Resources Coordinator",
     "school": "Johns Hopkins University",
@@ -1774,8 +1814,8 @@
     "source": "CS/school career page",
     "source_url": "http://apply.interfolio.com/170816",
     "source_page": "https://cs.uchicago.edu/about/job-openings/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3175,8 +3215,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3197,8 +3237,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3219,8 +3259,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3241,8 +3281,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3261,8 +3301,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3324,8 +3364,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3345,8 +3385,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3366,8 +3406,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3387,8 +3427,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3428,8 +3468,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -3449,8 +3489,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -5073,8 +5113,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -5218,8 +5258,8 @@
     "source": "CS/school career page",
     "source_url": "https://careers.uoregon.edu/en-us/job/536882/pro-tem-instructor-computer-science-open-pool",
     "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
@@ -5238,8 +5278,8 @@
     "source": "CS/school career page",
     "source_url": "https://careers.uoregon.edu/en-us/job/536923/pro-tem-instructor-data-science-open-pool",
     "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "status": "open"
   },
   {
