@@ -15,8 +15,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -55,8 +55,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -75,8 +75,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -95,8 +95,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-artificial-intelligence-for-veterinary-medicine-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -115,8 +115,29 @@
     "source": "CS/school career page",
     "source_url": "http://apply.interfolio.com/170816",
     "source_page": "https://cs.uchicago.edu/about/job-openings/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "95f03ec04e75ec52",
+    "title": "Teaching Faculty (Lecturer/Sr. Lecturer) - Robotics/AI",
+    "school": "University of Massachusetts--Amherst",
+    "location": "Amherst, MA",
+    "state": "MA",
+    "school_rank": "25",
+    "rank": "Lecturer",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://careers.umass.edu/jobs/teaching-faculty-lecturer-sr-lecturer-robotics-ai-amherst-massachusetts-united-states",
+    "source_page": "https://careers.umass.edu/",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -137,8 +158,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -159,8 +180,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -181,8 +202,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -201,8 +222,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -221,8 +242,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -242,8 +263,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -263,8 +284,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -284,8 +305,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -305,8 +326,29 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "d61a77ebb82923d5",
+    "title": "Lecturer of Data Science",
+    "school": "North Carolina State University",
+    "location": "NC",
+    "state": "NC",
+    "school_rank": "46",
+    "rank": "Lecturer",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "data science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.ncsu.edu/postings/234709",
+    "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -325,8 +367,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -346,8 +388,344 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "07c8c33a9f5adeaa",
+    "title": "Assistant/ Associate/ Full Professor - Sleep Medicine",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/537337/assistant-associate-full-professor-sleep-medicine",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "99c256ed7003e600",
+    "title": "Assistant / Associate Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Associate Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540775/assistant-associate-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "3b949e1338de68ce",
+    "title": "Chair & Associate/Full Professor - Department of Surgery",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541257/chair-associatefull-professor-department-of-surgery",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "aebc7fd6dad03c04",
+    "title": "Lecturer",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Lecturer",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541238/lecturer",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "10d3942cf3604331",
+    "title": "Cardiothoracic Radiologist - Clinical Assistant/Associate/Full Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541189/cardiothoracic-radiologist-clinical-assistantassociatefull-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "8cc6c72937d63147",
+    "title": "Obstetrics - Gynecology - Generalist/Nocturnist - Clinical Assistant/Associate Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Associate Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541205/obstetrics-gynecology-generalistnocturnist-clinical-assistantassociate-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "1f0dfcbba73491a7",
+    "title": "Clinical Assistant/Associate/Full Professor – Division of Addiction Medicine",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541239/clinical-assistantassociatefull-professor-division-of-addiction-medicine",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "02dea5b81a134667",
+    "title": "Psychology/Surgical Psychology - Clinical Assistant or Associate Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Associate Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541155/psychologysurgical-psychology-clinical-assistant-or-associate-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "7f27d5136310abae",
+    "title": "Women's Imaging -Clinical Assistant/Associate Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Associate Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541191/womens-imaging-clinical-assistantassociate-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "208ccb3200016215",
+    "title": "Abdominal Radiologist - Clinical Assistant/Associate/Full Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541188/abdominal-radiologist-clinical-assistantassociatefull-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "49c32329cb223c08",
+    "title": "Women's Imaging Radiologist - Clinical Assistant Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541154/womens-imaging-radiologist-clinical-assistant-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "5cb34c8996454eab",
+    "title": "Assistant Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541222/assistant-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "60548173ae6cca99",
+    "title": "Associate or Full Professor in Advertising",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541227/associate-or-full-professor-in-advertising",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "a3ba5819fc21f433",
+    "title": "Emergency /Trauma Diagnostic Imaging Radiologist Clinical Assistant, Associate Full Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541149/emergency-trauma-diagnostic-imaging-radiologist-clinical-assistant-associate-full-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "031d27bb91248726",
+    "title": "Assistant Professor European History -Tenure Accruing. Department of History",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541140/assistant-professor-european-history-tenure-accruing-department-of-history",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "5a5cfef41c79bead",
+    "title": "Assistant Professor US Legal History– Tenure Accruing, Department of History",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541142/assistant-professor-us-legal-history-tenure-accruing-department-of-history",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -366,8 +744,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -388,49 +766,8 @@
     "source": "CS/school career page",
     "source_url": "https://employment.ku.edu/jobs/faculty/instructor-electrical-engineering-and-computer-science/33706br",
     "source_page": "https://employment.ku.edu/jobs/faculty",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "status": "open"
-  },
-  {
-    "id": "a1fcd74483b073df",
-    "title": "College Assistant Professor",
-    "school": "New Mexico State University",
-    "location": "NM",
-    "state": "NM",
-    "school_rank": "151",
-    "rank": "Assistant Professor",
-    "track": "faculty",
-    "field": [
-      "computer science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.nmsu.edu/jobs/college-assistant-professor-las-cruces-new-mexico-united-states-a2750562-96c8-46b8-a2a4-479016a7e235",
-    "source_page": "https://careers.nmsu.edu/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "status": "open"
-  },
-  {
-    "id": "2a5a955624720f70",
-    "title": "Assistant Professor – Artificial Intelligence Education",
-    "school": "New Mexico State University",
-    "location": "NM",
-    "state": "NM",
-    "school_rank": "151",
-    "rank": "Assistant Professor",
-    "track": "tenure-track",
-    "field": [
-      "AI/ML",
-      "computer science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
-    "source_page": "https://careers.nmsu.edu/",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   },
   {
@@ -449,8 +786,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/52711",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "status": "open"
   }
 ]
