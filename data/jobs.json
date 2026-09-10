@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -55,8 +55,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -299,8 +299,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -764,8 +764,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -929,8 +929,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-artificial-intelligence-for-veterinary-medicine-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -1834,8 +1834,8 @@
     "source": "CS/school career page",
     "source_url": "http://apply.interfolio.com/170816",
     "source_page": "https://cs.uchicago.edu/about/job-openings/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3256,8 +3256,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3278,8 +3278,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3300,8 +3300,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3322,8 +3322,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3342,8 +3342,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3389,6 +3389,69 @@
     "status": "open"
   },
   {
+    "id": "c2fcc48b0625d4e6",
+    "title": "Tenure-Track Faculty in Artificial Intelligence",
+    "school": "University of Colorado--Boulder",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "school_rank": "34",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Artificial-Intelligence/74736",
+    "source_page": "https://jobs.colorado.edu/",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "4e4f02c04646a2de",
+    "title": "Tenure-Track Faculty in the Paul M. Rady Department of Mechanical Engineering",
+    "school": "University of Colorado--Boulder",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "school_rank": "34",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-the-Paul-M-Rady-Department-of-Mechanical-Engineering/74588",
+    "source_page": "https://jobs.colorado.edu/",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "a54faceafb3f0921",
+    "title": "Tenured/Tenure-Track Faculty in Engineering Education",
+    "school": "University of Colorado--Boulder",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "school_rank": "34",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenured-Tenure-Track-Faculty-in-Engineering-Education/74730",
+    "source_page": "https://jobs.colorado.edu/",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
     "id": "3af12f6fbe15428c",
     "title": "Open Rank Tenure Line Position in Computer Science (College of Engineering) /Huck Institute of Life Sciences",
     "school": "Pennsylvania State University--University Park",
@@ -3405,8 +3468,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3426,8 +3489,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3447,8 +3510,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3468,8 +3531,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3509,8 +3572,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3530,8 +3593,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/234709",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3551,8 +3614,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3627,7 +3690,7 @@
     "state": "FL",
     "school_rank": "51",
     "rank": "Associate Professor",
-    "track": "faculty",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -3636,8 +3699,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/540775/assistant-associate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -3747,14 +3810,35 @@
     "status": "open"
   },
   {
+    "id": "3ff18b9ea0f29308",
+    "title": "Assistant, Associate, Full Professor - Rheumatology",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Lecturer",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/540530/assistant-associate-full-professor-rheumatology",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
     "id": "07c8c33a9f5adeaa",
     "title": "Assistant/ Associate/ Full Professor - Sleep Medicine",
     "school": "University of Florida",
     "location": "Gainesville, FL",
     "state": "FL",
     "school_rank": "51",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Lecturer",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -3763,8 +3847,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/537337/assistant-associate-full-professor-sleep-medicine",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4094,8 +4178,8 @@
     "location": "Gainesville, FL",
     "state": "FL",
     "school_rank": "51",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Lecturer",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -4104,8 +4188,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541189/cardiothoracic-radiologist-clinical-assistantassociatefull-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4115,8 +4199,8 @@
     "location": "Gainesville, FL",
     "state": "FL",
     "school_rank": "51",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Lecturer",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -4125,8 +4209,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541257/chair-associatefull-professor-department-of-surgery",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4169,6 +4253,27 @@
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
     "first_seen": "2026-07-31",
     "last_seen": "2026-07-31",
+    "status": "open"
+  },
+  {
+    "id": "b0f43343ba2d645e",
+    "title": "Clinical Assistant or Associate Professor of Veterinary Clinical Pathology",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Associate Professor",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541282/clinical-assistant-or-associate-professor-of-veterinary-clinical-pathology",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4281,8 +4386,8 @@
     "location": "Gainesville, FL",
     "state": "FL",
     "school_rank": "51",
-    "rank": "Professor",
-    "track": "faculty",
+    "rank": "Lecturer",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -4291,8 +4396,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541239/clinical-assistantassociatefull-professor-division-of-addiction-medicine",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4398,6 +4503,27 @@
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
+    "status": "open"
+  },
+  {
+    "id": "3055bdaf638ea630",
+    "title": "Emergency Medicine/Community Faculty Physician - Clinical Assistant/Associate/Full Professor",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Lecturer",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541275/emergency-medicinecommunity-faculty-physician-clinical-assistantassociatefull-professor",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4541,8 +4667,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541238/lecturer",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4634,7 +4760,7 @@
     "state": "FL",
     "school_rank": "51",
     "rank": "Associate Professor",
-    "track": "faculty",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -4643,8 +4769,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541205/obstetrics-gynecology-generalistnocturnist-clinical-assistantassociate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4718,7 +4844,7 @@
     "state": "FL",
     "school_rank": "51",
     "rank": "Associate Professor",
-    "track": "faculty",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -4727,8 +4853,29 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541155/psychologysurgical-psychology-clinical-assistant-or-associate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "742426067ecc114d",
+    "title": "SR LECTURER",
+    "school": "University of Florida",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "school_rank": "51",
+    "rank": "Lecturer",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://explore.jobs.ufl.edu/en-us/job/541248/sr-lecturer",
+    "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4739,7 +4886,7 @@
     "state": "FL",
     "school_rank": "51",
     "rank": "Associate Professor",
-    "track": "faculty",
+    "track": "teaching",
     "field": [
       "systems",
       "AI/ML"
@@ -4748,8 +4895,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541191/womens-imaging-clinical-assistantassociate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4771,6 +4918,28 @@
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
     "first_seen": "2026-09-05",
     "last_seen": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "id": "e81d1435d3807bb9",
+    "title": "Academic Advisor",
+    "school": "George Mason University",
+    "location": "Fairfax, VA",
+    "state": "VA",
+    "school_rank": "65",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550769&Title=Academic%20Advisor",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -4951,6 +5120,28 @@
     "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
+    "status": "open"
+  },
+  {
+    "id": "5be6219a06a3d621",
+    "title": "Fitness Floor Attendant",
+    "school": "George Mason University",
+    "location": "Fairfax, VA",
+    "state": "VA",
+    "school_rank": "65",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550483&Title=Fitness%20Floor%20Attendant",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -5315,6 +5506,28 @@
     "status": "open"
   },
   {
+    "id": "24f4595f0f6b7828",
+    "title": "Allied Health & Nursing Program Manager",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551604&Title=Allied%20Health%20%26amp%3B%20Nursing%20Program%20Manager",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
     "id": "16987575a551a008",
     "title": "Assistant Director of Financial Aid",
     "school": "George Washington University",
@@ -5332,6 +5545,28 @@
     "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-03",
+    "status": "open"
+  },
+  {
+    "id": "25ace489b1abe4b9",
+    "title": "Assistant Director of Housing Services (Occupancy Management)",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550203&Title=Assistant%20Director%20of%20Housing%20Services%20%28Occupancy%20Management%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -5375,6 +5610,138 @@
     "status": "open"
   },
   {
+    "id": "7b9940db7b2969d3",
+    "title": "Clinical Research Coordinator",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550761&Title=Clinical%20Research%20Coordinator",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "87ec984cc732b2ca",
+    "title": "Computer Concepts Adjunct Instructor Pool",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551401&Title=Computer%20Concepts%20Adjunct%20Instructor%20Pool",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "6e96722bb8a3f7f2",
+    "title": "Credit & Collections Manager",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551338&Title=Credit%20%26amp%3B%20Collections%20Manager",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "6a7a793a5e348875",
+    "title": "Cybersecurity Engineer",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551402&Title=Cybersecurity%20Engineer",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "961318eb7229376c",
+    "title": "Director for Equity & Deputy Title IX Coordinator",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550206&Title=Director%20for%20Equity%20%26amp%3B%20Deputy%20Title%20IX%20Coordinator",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "a55e54e4f8f01b27",
+    "title": "Director of Annual Giving",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550813&Title=Director%20of%20Annual%20Giving",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
     "id": "d18d5b4839755dc4",
     "title": "Financial Systems BI Analyst",
     "school": "George Washington University",
@@ -5415,6 +5782,182 @@
     "status": "open"
   },
   {
+    "id": "c2e4948e697de16d",
+    "title": "Mastering the AWS Cloud, Department of Cybersecurity - Adjunct Faculty",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551250&Title=Mastering%20the%20AWS%20Cloud%2C%20Department%20of%20Cybersecurity%20%2D%20Adjunct%20Faculty",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "6333585f42cc1cf1",
+    "title": "Medical Assistant",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550812&Title=Medical%20Assistant",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "4a696376fda56490",
+    "title": "Part-Time Career Counselor",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550207&Title=Part%2DTime%20Career%20Counselor",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "353b671841db6eeb",
+    "title": "Principal Equal Opportunity Investigator",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551660&Title=Principal%20Equal%20Opportunity%20Investigator",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "dab17ead4e765541",
+    "title": "Program Coordinator (APT)",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550482&Title=Program%20Coordinator%20%28APT%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "a613005a6a0a13f3",
+    "title": "Program Coordinator (OLS)",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550507&Title=Program%20Coordinator%20%28OLS%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "1932917eca79328b",
+    "title": "Program Coordinator, Career Education",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551339&Title=Program%20Coordinator%2C%20Career%20Education",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "15a830e33ce4b910",
+    "title": "Program Manager, Development, College of Agriculture and Natural Resources (VPUR) - #JR104626",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179534139&Title=Program%20Manager%2C%20Development%2C%20College%20of%20Agriculture%20and%20Natural%20Resources%20%28VPUR%29%20%2D%20%23JR104626",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
     "id": "2f5b0370f35b8d01",
     "title": "Research &amp; Instruction Librarian",
     "school": "George Washington University",
@@ -5435,6 +5978,94 @@
     "status": "open"
   },
   {
+    "id": "0b19d32b7517cea2",
+    "title": "Research Technician II / III - PTR-BioImage Analysis",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551392&Title=Research%20Technician%20II%20%2F%20III%20%2D%20PTR%2DBioImage%20Analysis",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "74abb93c6b313453",
+    "title": "Senior Manager, Test & Quality Assurance",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179537841&Title=Senior%20Manager%2C%20Test%20%26%20Quality%20Assurance",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "f7db662ec8caaed2",
+    "title": "Senior Media Relations Specialist",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550605&Title=Senior%20Media%20Relations%20Specialist",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "afc80386137e9365",
+    "title": "Senior Project Associate",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179550429&Title=Senior%20Project%20Associate",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "status": "open"
+  },
+  {
     "id": "3c60755c144a17da",
     "title": "Special Assistant to the Dean",
     "school": "George Washington University",
@@ -5452,6 +6083,28 @@
     "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-03",
+    "status": "open"
+  },
+  {
+    "id": "b71809fc0dcdad81",
+    "title": "Student Services Specialist",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179551659&Title=Student%20Services%20Specialist",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -5490,8 +6143,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   },
   {
@@ -6011,8 +6664,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/52711",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
     "status": "open"
   }
 ]
