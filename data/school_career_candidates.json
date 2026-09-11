@@ -15,8 +15,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -55,8 +55,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -75,28 +75,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
-    "status": "open"
-  },
-  {
-    "id": "08a0f44a9345095d",
-    "title": "Assistant/Associate/Full Professor of Artificial Intelligence for Veterinary Medicine",
-    "school": "University of Wisconsin--Madison",
-    "location": "Madison, WI",
-    "state": "WI",
-    "school_rank": "15",
-    "rank": "Assistant Professor",
-    "track": "tenure-track",
-    "field": [
-      "AI/ML"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-artificial-intelligence-for-veterinary-medicine-madison-wisconsin-united-states",
-    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -115,8 +95,8 @@
     "source": "CS/school career page",
     "source_url": "http://apply.interfolio.com/170816",
     "source_page": "https://cs.uchicago.edu/about/job-openings/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -137,8 +117,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -159,8 +139,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -181,8 +161,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -201,8 +181,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -221,8 +201,29 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "status": "open"
+  },
+  {
+    "id": "deaa1a542503d671",
+    "title": "Tenure-Track Faculty in Quantum Computation",
+    "school": "University of Colorado--Boulder",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "school_rank": "34",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Quantum-Computation/74741",
+    "source_page": "https://jobs.colorado.edu/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -242,8 +243,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Artificial-Intelligence/74736",
     "source_page": "https://jobs.colorado.edu/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -263,8 +264,50 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenured-Tenure-Track-Faculty-in-Engineering-Education/74730",
     "source_page": "https://jobs.colorado.edu/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "status": "open"
+  },
+  {
+    "id": "cb41165d3a9bbbd3",
+    "title": "Open Rank Tenure Track Position in Accounting Division",
+    "school": "University of Colorado--Boulder",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "school_rank": "34",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Open-Rank-Tenure-Track-Position-in-Accounting-Division/74696",
+    "source_page": "https://jobs.colorado.edu/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "status": "open"
+  },
+  {
+    "id": "20bab11592e3e0e7",
+    "title": "Assistant or Associate Professor in Marketing",
+    "school": "University of Colorado--Boulder",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "school_rank": "34",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Assistant-or-Associate-Professor-in-Marketing/74693",
+    "source_page": "https://jobs.colorado.edu/",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -284,8 +327,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-the-Paul-M-Rady-Department-of-Mechanical-Engineering/74588",
     "source_page": "https://jobs.colorado.edu/",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -305,8 +348,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -326,8 +369,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -347,8 +390,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -368,8 +411,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -389,8 +432,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/234709",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -409,8 +452,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -430,8 +473,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -451,8 +494,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541248/sr-lecturer",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -472,8 +515,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541282/clinical-assistant-or-associate-professor-of-veterinary-clinical-pathology",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -493,8 +536,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/540530/assistant-associate-full-professor-rheumatology",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -514,8 +557,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541275/emergency-medicinecommunity-faculty-physician-clinical-assistantassociatefull-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -535,8 +578,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/537337/assistant-associate-full-professor-sleep-medicine",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -556,8 +599,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/540775/assistant-associate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -577,8 +620,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541257/chair-associatefull-professor-department-of-surgery",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -598,8 +641,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541238/lecturer",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -619,8 +662,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541189/cardiothoracic-radiologist-clinical-assistantassociatefull-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -640,8 +683,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541205/obstetrics-gynecology-generalistnocturnist-clinical-assistantassociate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -661,8 +704,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541239/clinical-assistantassociatefull-professor-division-of-addiction-medicine",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -682,8 +725,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541155/psychologysurgical-psychology-clinical-assistant-or-associate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -703,8 +746,8 @@
     "source": "CS/school career page",
     "source_url": "https://explore.jobs.ufl.edu/en-us/job/541191/womens-imaging-clinical-assistantassociate-professor",
     "source_page": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=adjunct%20faculty&work-type=faculty%20admin%20title&work-type=multi-track%20faculty&work-type=non-permanent%20status%20faculty&work-type=non-tenure-track%20faculty&work-type=other%20faculty&work-type=permanent%20status%20faculty&work-type=tenure-track%20faculty&job-mail-subscribe-privacy=agree",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -723,8 +766,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   },
   {
@@ -743,8 +786,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/52711",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "status": "open"
   }
 ]
