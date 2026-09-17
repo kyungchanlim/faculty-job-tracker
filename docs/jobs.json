@@ -1,5 +1,25 @@
 [
   {
+    "id": "7e8d9a5471fd5176",
+    "title": "Department of Electrical & Computer Engineering - Faculty Positions (PITTSBURGH)",
+    "school": "Carnegie Mellon University",
+    "location": "Pittsburgh, PA",
+    "state": "PA",
+    "school_rank": "1",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://apply.interfolio.com/193699",
+    "source_page": "https://www.cmu.edu/faculty-office/faculty-recruitment/faculty-careers.html",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "status": "open"
+  },
+  {
     "id": "00bbef028c55617d",
     "title": "Visiting Faculty in Information Systems - Open Rank",
     "school": "Carnegie Mellon University",
@@ -35,8 +55,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -55,8 +75,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -299,8 +319,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -764,8 +784,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -1980,6 +2000,27 @@
     "status": "open"
   },
   {
+    "id": "b4e8f2ebea9f8c60",
+    "title": "Adjunct Instructor of Local Governance Los Angeles, CA",
+    "school": "University of Southern California",
+    "location": "CA",
+    "state": "CA",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://usccareers.usc.edu/job/los-angeles/adjunct-instructor-of-local-governance/1209/94177569584",
+    "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "status": "open"
+  },
+  {
     "id": "4f5a88ec9bad02fa",
     "title": "Adjunct Instructor of Urban Planning Los Angeles, CA",
     "school": "University of Southern California",
@@ -2307,16 +2348,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-director-health-promotion-strategy-clinical-instructor-of-family-medicine-clinician-educa/1209/99813888752",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -2527,16 +2569,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-of-research-immunology-and-immune-therapeutics/1209/100501008304",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -2600,6 +2643,27 @@
     "status": "open"
   },
   {
+    "id": "df7c92835a8754bd",
+    "title": "Assistant Professor, Associate Professor, and Full Professor of Industrial and Systems Engineering Los Angeles, CA",
+    "school": "University of Southern California",
+    "location": "CA",
+    "state": "CA",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-associate-professor-and-full-professor-of-industrial-and-systems-engineering/1209/100736016464",
+    "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "status": "open"
+  },
+  {
     "id": "0f737e03bc6a67ec",
     "title": "Assistant or Associate Professor of Clinical Otolaryngology Head and Neck Surgery-CHLA Los Angeles, CA",
     "school": "University of Southern California",
@@ -2607,16 +2671,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-or-associate-professor-of-clinical-otolaryngology-head-and-neck-surgery-chla/1209/60632242896",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -2647,16 +2712,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-associate-professor-of-physical-therapy/1209/99745515248",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -2667,16 +2733,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-associate-professor-of-practice-in-human-ai-interaction-machine-learning-and-data-design/1209/100684964720",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -2747,16 +2814,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/associate-or-professor-of-clinical-obstetrics-and-gynecology-urogynecology-and-reconstructive-pelvi/1209/100046221728",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -2837,6 +2905,27 @@
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
     "first_seen": "2026-07-08",
     "last_seen": "2026-07-08",
+    "status": "open"
+  },
+  {
+    "id": "ae36aa3db4f65a50",
+    "title": "Clinical Assistant Professor of Medicine (Clinician Educator) Los Angeles, CA",
+    "school": "University of Southern California",
+    "location": "CA",
+    "state": "CA",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-assistant-professor-of-medicine-clinician-educator/1209/100750391760",
+    "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3027,16 +3116,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-instructor-of-radiology-practitioner/1209/100639914336",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3107,16 +3197,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/full-time-teaching-track-faculty-position-in-quantitative-and-computational-biology/1209/94300113920",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3167,16 +3258,17 @@
     "state": "CA",
     "school_rank": "21",
     "rank": "Assistant Professor",
-    "track": "tenure-track",
+    "track": "teaching",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/el-segundo/instructor-assistant-professor-of-clinical-physical-therapy/1209/100158752240",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3420,6 +3512,27 @@
     "status": "open"
   },
   {
+    "id": "fa0e1c7a956e0938",
+    "title": "Part-Time, Teaching-Track Faculty Positions in Political Science and International Relations Los Angeles, CA",
+    "school": "University of Southern California",
+    "location": "CA",
+    "state": "CA",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://usccareers.usc.edu/job/los-angeles/part-time-teaching-track-faculty-positions-in-political-science-and-international-relations/1209/96242950384",
+    "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "status": "open"
+  },
+  {
     "id": "a463c218c4d9c7de",
     "title": "Street Medicine APP -Clinical Instructor of Family Medicine (Practitioner) Los Angeles, CA",
     "school": "University of Southern California",
@@ -3449,14 +3562,15 @@
     "rank": "Assistant Professor",
     "track": "tenure-track",
     "field": [
+      "systems",
       "AI/ML"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/tenure-track-assistant-professor-positions/1209/100143263472",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3516,8 +3630,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3538,8 +3652,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3560,8 +3674,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3582,8 +3696,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3602,8 +3716,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3835,8 +3949,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3856,8 +3970,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3877,8 +3991,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3898,8 +4012,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3939,8 +4053,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3960,8 +4074,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/234709",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -3981,8 +4095,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -6510,8 +6624,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
@@ -7031,8 +7145,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/52711",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "status": "open"
   },
   {
