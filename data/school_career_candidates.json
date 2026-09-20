@@ -15,8 +15,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193699",
     "source_page": "https://www.cmu.edu/faculty-office/faculty-recruitment/faculty-careers.html",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -55,8 +55,488 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "d7a474eec0a95c86",
+    "title": "Assistant, Associate, or Full Professor of Learning Sciences – RISE-AI (Artificial Intelligence)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "63f246c0682a90df",
+    "title": "Assistant Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-madison-wisconsin-united-states-279bfbaf-b449-48ad-a5f9-7b5a69eabe4d",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "0526a2c34db24a40",
+    "title": "Assistant Professor, Ophthalmology",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-ophthalmology-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "1032cb853a07e3bc",
+    "title": "Assistant Professor of Pharmaceutical Sciences - Drug Delivery",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-pharmaceutical-sciences-drug-delivery-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "df306cdef02e4dcd",
+    "title": "Assistant/Associate/Full Professor in Agricultural and Applied Economics",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-agricultural-and-applied-economics-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "e2f945322a6473c6",
+    "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states-1ff4bcd0-228f-45b7-89fe-81b232fd7953",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "ca7c73aa3161d82f",
+    "title": "Assistant or Associate Professor in K-12 Leadership",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-k-12-leadership-madison-wisconsin-united-states-c05e4b3f-168e-4333-b57e-7eff934aa9f9",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "683fbbef7b63ddba",
+    "title": "Assistant Professor, Small Animal Oncologic Surgery",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-oncologic-surgery-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "2b8385eb575fc419",
+    "title": "Assistant Professor of Economics",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-economics-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "7b6482f0917e8a43",
+    "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "1c1e1b484f2e7838",
+    "title": "Assistant Professor, Associate Professor, or Professor of Psychology",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-associate-professor-or-professor-of-psychology-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "5cf7959f21b491df",
+    "title": "Assistant or Associate Professor of Scenic Design",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-of-scenic-design-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "9a0845dbcd6045cc",
+    "title": "General Internal Medicine Faculty Researcher - Assistant, Associate, or Full Professor (Tenure)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/general-internal-medicine-faculty-researcher-assistant-associate-or-full-professor-tenure-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "85b7401268fd72c4",
+    "title": "Associate Professor Notice of Filing",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/associate-professor-notice-of-filing-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "3faeb628eb1d64a7",
+    "title": "Assistant Professor of Communication Science - RISE EARTH",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-communication-science-rise-earth-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "76d745818bd4b14c",
+    "title": "Assistant Professor of Political Science - RISE EARTH",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-rise-earth-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "3d7c302e2d36c231",
+    "title": "Tenured or Tenure Track Faculty in Food and Nutritional Sciences",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/tenured-or-tenure-track-faculty-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "816afc5399966e9f",
+    "title": "Assistant Professor of Political Science",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-madison-wisconsin-united-states-c36b8116-680d-4074-850d-9c95be04a387",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "ae5935ab0509526f",
+    "title": "Otolaryngology Head & Neck Surgeon Scientist - Assistant, Associate, or Full Professor (Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/otolaryngology-head-neck-surgeon-scientist-assistant-associate-or-full-professor-tenure-track-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "61767cec27b828b1",
+    "title": "Assistant Professor Small Animal Internal Medicine (SAIM)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-internal-medicine-saim-madison-wisconsin-united-states-5610b8fc-30c9-465e-a3bf-56127387340d",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "022b2a9afc90cc64",
+    "title": "Assistant, Associate or full Professor of Law (State and Local Democracy)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-state-and-local-democracy-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "c1eca97dc0bbc983",
+    "title": "Assistant, Associate or full Professor of Law (Health and Aging)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-health-and-aging-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "c2598bfb0305872a",
+    "title": "Assistant, Associate or Full Professor of Law (Energy and Sustainability)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-energy-and-sustainability-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "a6221a0c040fc8da",
+    "title": "Assistant Professor of Emergency and Critical Care",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-emergency-and-critical-care-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -75,8 +555,88 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-music-technology-and-artificial-intelligence-rise-ai-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "e883a0a4bf6c65f8",
+    "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states-bae6d1ce-89fa-4290-b951-457b78c1aced",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "6f6a7d53c5060a9c",
+    "title": "Assistant Professor of Public Policy (Market-Based Solutions to Societal Challenges)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-public-policy-market-based-solutions-to-societal-challenges-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "d25a5aac82b0ed49",
+    "title": "Assistant/Associate Professor in Food and Nutritional Sciences",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-professor-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "status": "open"
+  },
+  {
+    "id": "25501f9bc68f4049",
+    "title": "Assistant Professor (Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-tenure-track-madison-wisconsin-united-states-9b4706b1-547f-4c83-b524-144da7c1d261",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -96,8 +656,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-or-associate-professor-of-clinical-otolaryngology-head-and-neck-surgery-chla/1209/60632242896",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -117,8 +677,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-assistant-professor-of-medicine-clinician-educator/1209/100750391760",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -138,8 +698,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-associate-professor-and-full-professor-of-industrial-and-systems-engineering/1209/100736016464",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -159,8 +719,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/adjunct-instructor-of-local-governance/1209/94177569584",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -180,8 +740,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-associate-professor-of-practice-in-human-ai-interaction-machine-learning-and-data-design/1209/100684964720",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -201,8 +761,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/part-time-teaching-track-faculty-positions-in-political-science-and-international-relations/1209/96242950384",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -222,8 +782,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-associate-professor-of-physical-therapy/1209/99745515248",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -243,8 +803,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/clinical-instructor-of-radiology-practitioner/1209/100639914336",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -264,8 +824,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-of-research-immunology-and-immune-therapeutics/1209/100501008304",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -285,8 +845,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/full-time-teaching-track-faculty-position-in-quantitative-and-computational-biology/1209/94300113920",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -306,8 +866,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/assistant-director-health-promotion-strategy-clinical-instructor-of-family-medicine-clinician-educa/1209/99813888752",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -327,8 +887,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/el-segundo/instructor-assistant-professor-of-clinical-physical-therapy/1209/100158752240",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -348,8 +908,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/tenure-track-assistant-professor-positions/1209/100143263472",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -369,8 +929,8 @@
     "source": "CS/school career page",
     "source_url": "https://usccareers.usc.edu/job/los-angeles/associate-or-professor-of-clinical-obstetrics-and-gynecology-urogynecology-and-reconstructive-pelvi/1209/100046221728",
     "source_page": "https://usccareers.usc.edu/category/faculty-jobs/1728-1209/40020/1",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -389,8 +949,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193780",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -409,8 +969,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193781",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -429,8 +989,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193444",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -449,8 +1009,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193848",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -469,8 +1029,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193436",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -489,8 +1049,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193518",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -509,8 +1069,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193767",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -529,8 +1089,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193764",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -549,8 +1109,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193585",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -569,8 +1129,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193601",
     "source_page": "https://academicpositions.yale.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -591,8 +1151,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -613,8 +1173,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -635,8 +1195,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -655,8 +1215,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -675,8 +1235,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -696,8 +1256,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Electrical-Computer-and-Energy-Engineering/74871",
     "source_page": "https://jobs.colorado.edu/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -717,8 +1277,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -738,8 +1298,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -759,8 +1319,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -780,8 +1340,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -801,8 +1361,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/234709",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -821,8 +1381,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/231143",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -842,29 +1402,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "56136a906247174b",
-    "title": "Assistant Professor, Materials Science and Engineering",
-    "school": "University of Central Florida",
-    "location": "FL",
-    "state": "FL",
-    "school_rank": "65",
-    "rank": "Assistant Professor",
-    "track": "teaching",
-    "field": [
-      "security",
-      "systems"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://jobs.ucf.edu/jobs/assistant-professor-materials-science-and-engineering-orlando-florida-united-states",
-    "source_page": "https://www.ucf.edu/jobs/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -884,8 +1423,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ucf.edu/jobs/lecturer-department-of-nursing-systems-college-of-nursing-orlando-florida-united-states-24c6c33c-94e3-4655-857d-7a413f3a04e7",
     "source_page": "https://www.ucf.edu/jobs/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -905,8 +1444,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ucf.edu/jobs/assistant-professor-kenneth-g-dixon-school-of-accounting-orlando-florida-united-states",
     "source_page": "https://www.ucf.edu/jobs/",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -925,302 +1464,28 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
-    "id": "d4f63f60b75632af",
-    "title": "Associate/Full Professor of Media Law, First Amendment, Press Freedom",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Professor",
-    "track": "faculty",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536652/associatefull-professor-of-media-law-first-amendment-press-freedom",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "101a67322bfaaade",
-    "title": "Pro Tem Instructor (Psychology) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536937/pro-tem-instructor-psychology-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "fa3d02adafc7e9f0",
-    "title": "Pro Tem Instructor (Earth Sciences) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536935/pro-tem-instructor-earth-sciences-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "6881106decade868",
-    "title": "Pro Tem Instructor (Linguistics) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536936/pro-tem-instructor-linguistics-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "4f4998aca1ad4b9b",
-    "title": "Pro Tem Instructors/Lecturers (School of PPPM) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Lecturer",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536940/pro-tem-instructorslecturers-school-of-pppm-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "ecbfd3d1e0aff8f2",
-    "title": "Pro Tem Instructor (German) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536922/pro-tem-instructor-german-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "3d12c27d67fbf57d",
-    "title": "Pro Tem Instructor (Geography) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536921/pro-tem-instructor-geography-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "10e55f5521607b84",
-    "title": "Pro Tem Instructor (Creative Writing) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536919/pro-tem-instructor-creative-writing-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "8738eae7e9de4f74",
-    "title": "Pro Tem Instructor (Anthropology) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536920/pro-tem-instructor-anthropology-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "eebaf3285adf92eb",
-    "title": "Pro Tem Instructor (Theatre Arts) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536917/pro-tem-instructor-theatre-arts-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "e4ff82e492c458cf",
-    "title": "Pro Tem Instructor (Data Science) - Open Pool",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Instructor",
-    "track": "teaching",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536923/pro-tem-instructor-data-science-open-pool",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "046039f284706fb0",
-    "title": "Assistant/Associate/Full Professor of Bioengineering: Synthetic Biology (2 positions)",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Professor",
-    "track": "faculty",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536687/assistantassociatefull-professor-of-bioengineering-synthetic-biology-2-positions",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "4bd2673e5b88bd42",
-    "title": "Assistant/Associate/Full Professor of Bioengineering: Biomaterials",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
-    "rank": "Professor",
-    "track": "faculty",
-    "field": [
-      "AI/ML",
-      "data science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536693/assistantassociatefull-professor-of-bioengineering-biomaterials",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "status": "open"
-  },
-  {
-    "id": "7671c236f98b145c",
-    "title": "Assistant Professor of Accounting",
-    "school": "University of Oregon",
-    "location": "Eugene, OR",
-    "state": "OR",
-    "school_rank": "83",
+    "id": "a1fcd74483b073df",
+    "title": "College Assistant Professor",
+    "school": "New Mexico State University",
+    "location": "NM",
+    "state": "NM",
+    "school_rank": "151",
     "rank": "Assistant Professor",
     "track": "faculty",
     "field": [
-      "AI/ML",
-      "data science"
+      "computer science"
     ],
     "deadline": "",
     "source": "CS/school career page",
-    "source_url": "https://careers.uoregon.edu/en-us/job/536790/assistant-professor-of-accounting",
-    "source_page": "https://careers.uoregon.edu/en-us/filter/?job-mail-subscribe-privacy=agree&search-keyword=&work-type=faculty%20-%20career&work-type=faculty%20-%20other&work-type=faculty%20-%20pro%20tempore&work-type=faculty%20-%20tenure%20track",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "source_url": "https://careers.nmsu.edu/jobs/college-assistant-professor-las-cruces-new-mexico-united-states-a2750562-96c8-46b8-a2a4-479016a7e235",
+    "source_page": "https://careers.nmsu.edu/",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   },
   {
@@ -1239,8 +1504,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/53027",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "status": "open"
   }
 ]
