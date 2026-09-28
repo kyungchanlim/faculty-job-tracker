@@ -1,1 +1,464 @@
-[]
+[
+  {
+    "id": "0aa414a47b74be44",
+    "title": "Executive Admin Assistant II",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179570619&Title=Executive%20Admin%20Assistant%20II",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "ead1cf66b9092e14",
+    "title": "Faculty Positions-Outpatient Psychiatrists",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179570418&Title=Faculty%20Positions%2DOutpatient%20Psychiatrists",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "f59b11e2c3662c30",
+    "title": "Enterprise Resource Planning Manager",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179570067&Title=Enterprise%20Resource%20Planning%20Manager",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "ecf8649660c58e4e",
+    "title": "Assistant Vice President and Dean of Students",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179569988&Title=Assistant%20Vice%20President%20and%20Dean%20of%20Students",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "e0e8c204f39a1125",
+    "title": "Student Finance Systems Programmer/Developer",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179569971&Title=Student%20Finance%20Systems%20Programmer%2FDeveloper",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "16773b4e19a9b3b0",
+    "title": "Senior Development Coordinator (School of Government and Policy)",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179569515&Title=Senior%20Development%20Coordinator%20%28School%20of%20Government%20and%20Policy%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "484ad6596ab52bad",
+    "title": "Manager of Occupational Safety & Risk Management",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179568973&Title=Manager%20of%20Occupational%20Safety%20%26%20Risk%20Management",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "586b11b24c755520",
+    "title": "Assistant Professor of Art in Sculpture",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179568754&Title=Assistant%20Professor%20of%20Art%20in%20Sculpture",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "9d3eb34212e112e4",
+    "title": "Driver, GW Safe Ride",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179567995&Title=Driver%2C%20GW%20Safe%20Ride",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "d0730be5aca7f148",
+    "title": "Housekeeping and Events Setup",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179567113&Title=Housekeeping%20and%20Events%20Setup",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "7cd6e2044950c894",
+    "title": "Agentic AI Security Engineer",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "security",
+      "systems",
+      "AI/ML"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566953&Title=Agentic%20AI%20Security%20Engineer",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "fc76c083b3660b23",
+    "title": "Resource Project Manager",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566952&Title=Resource%20Project%20Manager",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "1f86862f13110179",
+    "title": "Assistant Professor of Information Systems and Technology Management",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566864&Title=Assistant%20Professor%20of%20Information%20Systems%20and%20Technology%20Management",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "457b7c39c6097fa4",
+    "title": "Assistant Professor of Chemistry",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566863&Title=Assistant%20Professor%20of%20Chemistry",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "db4475f07b2a1222",
+    "title": "Italian Language, Vicenza, Undergraduate School- Adjunct Faculty",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566818&Title=Italian%20Language%2C%20Vicenza%2C%20Undergraduate%20School%2D%20Adjunct%20Faculty",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "9a78f97aa6d8eb84",
+    "title": "Operating Engineer",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566415&Title=Operating%20Engineer",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "611e621ea6c5af80",
+    "title": "Building Services Technician I",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179566205&Title=Building%20Services%20Technician%20I",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "0b1af7e35019fac7",
+    "title": "Technical Engineering Project Manager",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179565805&Title=Technical%20Engineering%20Project%20Manager",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "44dfbc57a2f75aca",
+    "title": "General Maintenance Mechanic",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179565633&Title=General%20Maintenance%20Mechanic",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "18fe6745a74ebc23",
+    "title": "Environmental Services Technician",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179565632&Title=Environmental%20Services%20Technician",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "a99e0caf72df0363",
+    "title": "Instructional Coordinator",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179565430&Title=Instructional%20Coordinator",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "60921a42870ba468",
+    "title": "Director, Central Initiatives",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179565294&Title=Director%2C%20Central%20Initiatives",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "fdc64bacf9ecb1d5",
+    "title": "ACCESS Academy Career Coach and Industry Liaison",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Faculty",
+    "track": "faculty",
+    "field": [
+      "systems"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179565212&Title=ACCESS%20Academy%20Career%20Coach%20and%20Industry%20Liaison",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "status": "open"
+  }
+]
