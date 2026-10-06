@@ -15,8 +15,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193207",
     "source_page": "https://www.cmu.edu/faculty-office/faculty-recruitment/faculty-careers.html",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -35,8 +35,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/193699",
     "source_page": "https://www.cmu.edu/faculty-office/faculty-recruitment/faculty-careers.html",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -56,8 +56,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -77,8 +77,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -98,8 +98,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -119,8 +119,8 @@
     "source": "CS/school career page",
     "source_url": "https://eecs.berkeley.edu/connect/faculty-jobs/",
     "source_page": "https://eecs.berkeley.edu/connect/faculty-jobs/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -139,8 +139,260 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/176021",
     "source_page": "https://www.cs.columbia.edu/open-positions/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "698e6ce31f27e18b",
+    "title": "Assistant/Associate/Full Professor in Electrical and Computer Engineering (Quantum Engineering) Notice of Filing",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-electrical-and-computer-engineering-quantum-engineering-notice-of-filing-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "c44d2a0bfb46deb8",
+    "title": "Professor of Statistics",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/professor-of-statistics-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "c7b4a0355bfcb04d",
+    "title": "Assistant, Associate, or Full Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-madison-wisconsin-united-states-d14cd1ca-6fa9-4d1f-b3d9-bdbad7c9e02c",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "1b723663a2d94169",
+    "title": "Assistant, Associate, or Full Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-madison-wisconsin-united-states-29ef308c-613c-4eb5-900f-cae600894126",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "4221b93f046236c1",
+    "title": "Assistant, Associate, or Full Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-madison-wisconsin-united-states-4d49d84f-68f2-4ef3-bb5c-0bb4992b0c80",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "39e430969cfaf1c6",
+    "title": "Assistant Professor of Art History, Early Modern/Renaissance Art, ca. 1400-1700",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-art-history-early-modern-renaissance-art-ca-1400-1700-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "5a317f7f89d57fe5",
+    "title": "Assistant Professor-Nuclear Engineering & Engineering Physics",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-nuclear-engineering-engineering-physics-madison-wisconsin-united-states-a2488f09-bdd6-402d-b243-3284ddef5fc6",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "51666bee3ee8be3c",
+    "title": "Assistant Professor in Nuclear Engineering & Engineering Physics (Radiochemistry)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-in-nuclear-engineering-engineering-physics-radiochemistry-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "40e4b2ca5bf3e16f",
+    "title": "Assistant Professor of Double Bass",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-double-bass-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "e0743c5e38aa14b3",
+    "title": "Assistant or Associate Professor in Educational Policy Studies - RISE Earth",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-educational-policy-studies-rise-earth-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "c2598bfb0305872a",
+    "title": "Assistant, Associate or Full Professor of Law (Energy and Sustainability)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-law-energy-and-sustainability-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "63f246c0682a90df",
+    "title": "Assistant Professor",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-madison-wisconsin-united-states-279bfbaf-b449-48ad-a5f9-7b5a69eabe4d",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -153,14 +405,351 @@
     "rank": "Assistant Professor",
     "track": "faculty",
     "field": [
-      "AI/ML"
+      "AI/ML",
+      "computer engineering"
     ],
     "deadline": "",
     "source": "CS/school career page",
     "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
     "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "0526a2c34db24a40",
+    "title": "Assistant Professor, Ophthalmology",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-ophthalmology-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "1032cb853a07e3bc",
+    "title": "Assistant Professor of Pharmaceutical Sciences - Drug Delivery",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-pharmaceutical-sciences-drug-delivery-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "df306cdef02e4dcd",
+    "title": "Assistant/Associate/Full Professor in Agricultural and Applied Economics",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-in-agricultural-and-applied-economics-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "e2f945322a6473c6",
+    "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states-1ff4bcd0-228f-45b7-89fe-81b232fd7953",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "ca7c73aa3161d82f",
+    "title": "Assistant or Associate Professor in K-12 Leadership",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-k-12-leadership-madison-wisconsin-united-states-c05e4b3f-168e-4333-b57e-7eff934aa9f9",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "683fbbef7b63ddba",
+    "title": "Assistant Professor, Small Animal Oncologic Surgery",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-oncologic-surgery-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "2b8385eb575fc419",
+    "title": "Assistant Professor of Economics",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-economics-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "7b6482f0917e8a43",
+    "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-tenured-or-tenure-track-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "1c1e1b484f2e7838",
+    "title": "Assistant Professor, Associate Professor, or Professor of Psychology",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-associate-professor-or-professor-of-psychology-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "5cf7959f21b491df",
+    "title": "Assistant or Associate Professor of Scenic Design",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-of-scenic-design-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "9a0845dbcd6045cc",
+    "title": "General Internal Medicine Faculty Researcher - Assistant, Associate, or Full Professor (Tenure)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/general-internal-medicine-faculty-researcher-assistant-associate-or-full-professor-tenure-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "76d745818bd4b14c",
+    "title": "Assistant Professor of Political Science - RISE EARTH",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-rise-earth-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "3d7c302e2d36c231",
+    "title": "Tenured or Tenure Track Faculty in Food and Nutritional Sciences",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/tenured-or-tenure-track-faculty-in-food-and-nutritional-sciences-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "816afc5399966e9f",
+    "title": "Assistant Professor of Political Science",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-of-political-science-madison-wisconsin-united-states-c36b8116-680d-4074-850d-9c95be04a387",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "ae5935ab0509526f",
+    "title": "Otolaryngology Head & Neck Surgeon Scientist - Assistant, Associate, or Full Professor (Tenure Track)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/otolaryngology-head-neck-surgeon-scientist-assistant-associate-or-full-professor-tenure-track-madison-wisconsin-united-states",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "61767cec27b828b1",
+    "title": "Assistant Professor Small Animal Internal Medicine (SAIM)",
+    "school": "University of Wisconsin--Madison",
+    "location": "Madison, WI",
+    "state": "WI",
+    "school_rank": "15",
+    "rank": "Assistant Professor",
+    "track": "faculty",
+    "field": [
+      "AI/ML",
+      "computer engineering"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://jobs.wisc.edu/jobs/assistant-professor-small-animal-internal-medicine-saim-madison-wisconsin-united-states-5610b8fc-30c9-465e-a3bf-56127387340d",
+    "source_page": "https://jobs.wisc.edu/jobs/search?category=Faculty",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -180,8 +769,8 @@
     "source": "CS/school career page",
     "source_url": "https://careers.umass.edu/jobs/assistant-professor-tt-electrical-computer-engineering-power-electronics-devices-systems-amherst-massachusetts-united-states",
     "source_page": "https://careers.umass.edu/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -201,8 +790,8 @@
     "source": "CS/school career page",
     "source_url": "https://careers.umass.edu/jobs/assistant-professor-tt-electrical-computer-engineering-remote-sensing-systems-amherst-massachusetts-united-states",
     "source_page": "https://careers.umass.edu/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -223,8 +812,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09879",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -245,8 +834,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09880",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -267,8 +856,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF09894",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -287,8 +876,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.uci.edu/JPF10017",
     "source_page": "https://ics.uci.edu/academic-recruitment/",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -307,29 +896,8 @@
     "source": "CS/school career page",
     "source_url": "https://recruit.ap.ucsb.edu/JPF02754",
     "source_page": "https://cs.ucsb.edu/open-positions",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "status": "open"
-  },
-  {
-    "id": "807258c3f527f0fc",
-    "title": "Assistant or Associate Professor in the Department of Mechanical Engineering",
-    "school": "Pennsylvania State University--University Park",
-    "location": "University Park, PA",
-    "state": "PA",
-    "school_rank": "38",
-    "rank": "Associate Professor",
-    "track": "tenure-track",
-    "field": [
-      "AI/ML",
-      "computer science"
-    ],
-    "deadline": "",
-    "source": "CS/school career page",
-    "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000082877",
-    "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -349,8 +917,29 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000082914",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "807258c3f527f0fc",
+    "title": "Assistant or Associate Professor in the Department of Mechanical Engineering",
+    "school": "Pennsylvania State University--University Park",
+    "location": "University Park, PA",
+    "state": "PA",
+    "school_rank": "38",
+    "rank": "Associate Professor",
+    "track": "tenure-track",
+    "field": [
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "CS/school career page",
+    "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000082877",
+    "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -370,8 +959,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -391,8 +980,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000071761",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -412,8 +1001,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000076663",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -433,8 +1022,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000082629",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -454,8 +1043,8 @@
     "source": "CS/school career page",
     "source_url": "https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000079195",
     "source_page": "https://www.engr.psu.edu/academic-positions/index.aspx",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -474,8 +1063,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/235361",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -495,8 +1084,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.ncsu.edu/postings/234709",
     "source_page": "https://jobs.ncsu.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1196%5B%5D=10&1196%5B%5D=4&1196%5B%5D=11&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -516,8 +1105,8 @@
     "source": "CS/school career page",
     "source_url": "https://apply.interfolio.com/173609",
     "source_page": "https://engineering.vanderbilt.edu/eecs/open-positions",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -536,8 +1125,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.oregonstate.edu/postings/181221",
     "source_page": "https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&1970%5B%5D=1&query_organizational_tier_3_id%5B%5D=any&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -556,8 +1145,8 @@
     "source": "CS/school career page",
     "source_url": "https://ukjobs.uky.edu/postings/650924",
     "source_page": "https://ukjobs.uky.edu/postings/search?query=&query_v0_posted_at_date=&225=&988%5B%5D=2&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -576,8 +1165,8 @@
     "source": "CS/school career page",
     "source_url": "https://ukjobs.uky.edu/postings/649293",
     "source_page": "https://ukjobs.uky.edu/postings/search?query=&query_v0_posted_at_date=&225=&988%5B%5D=2&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -596,8 +1185,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/53106",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   },
   {
@@ -616,8 +1205,8 @@
     "source": "CS/school career page",
     "source_url": "https://jobs.montana.edu/postings/53027",
     "source_page": "https://jobs.montana.edu/postings/search?;query=&query_v0_posted_at_date=&query_position_type_id=2&1230=&435=&query_organizational_tier_3_id=any&commit=Search",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "status": "open"
   }
 ]
