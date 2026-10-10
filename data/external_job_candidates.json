@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "55de4691eeacefb4",
+    "title": "Professor of Analytics and AI",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Professor",
+    "track": "faculty",
+    "field": [
+      "security",
+      "AI/ML",
+      "data science",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179584412&Title=Professor%20of%20Analytics%20and%20AI",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "status": "open"
+  },
+  {
+    "id": "82a62af625c626bb",
+    "title": "Tenure-Track Assistant Professor of Communication (specialty in New/Emerging Communication Technology and Innovative Research Methods)",
+    "school": "George Mason University",
+    "location": "Fairfax, VA",
+    "state": "VA",
+    "school_rank": "65",
+    "rank": "Assistant Professor",
+    "track": "tenure-track",
+    "field": [
+      "security",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179583888&Title=Tenure%2DTrack%20Assistant%20Professor%20of%20Communication%20%28specialty%20in%20New%2FEmerging%20Communication%20Technology%20and%20Innovative%20Research%20Methods%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "status": "open"
+  }
+]
