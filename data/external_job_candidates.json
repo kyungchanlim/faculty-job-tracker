@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "1af9e2834c0b1e14",
+    "title": "Security in the Cloud, Department of Cybersecurity - Adjunct Faculty",
+    "school": "George Washington University",
+    "location": "Washington, DC",
+    "state": "DC",
+    "school_rank": "69",
+    "rank": "Instructor",
+    "track": "teaching",
+    "field": [
+      "security",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179594039&Title=Security%20in%20the%20Cloud%2C%20Department%20of%20Cybersecurity%20%2D%20Adjunct%20Faculty",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "status": "open"
+  }
+]
