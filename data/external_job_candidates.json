@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "35076284bd6d03ad",
+    "title": "Manager, Research Computing Services",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Assistant Professor",
+    "track": "teaching",
+    "field": [
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179600036&Title=Manager%2C%20Research%20Computing%20Services",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "status": "open"
+  }
+]
