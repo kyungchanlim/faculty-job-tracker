@@ -1,22 +1,112 @@
 [
   {
-    "id": "54813fe6b6bae951",
-    "title": "Assistant Research Professor of Biostatistics and Bioinformatics and/or Epidemiology",
+    "id": "64b8656dbc88a28a",
+    "title": "Faculty Positions in Anesthesiology",
     "school": "Johns Hopkins University",
     "location": "Baltimore, MD",
     "state": "MD",
     "school_rank": "21",
-    "rank": "Professor",
+    "rank": "Faculty",
     "track": "faculty",
     "field": [
-      "computing"
+      "security",
+      "systems",
+      "computer science"
     ],
     "deadline": "",
     "source": "HigherEdJobs",
-    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179603514&Title=Assistant%20Research%20Professor%20of%20Biostatistics%20and%20Bioinformatics%20and%2For%20Epidemiology",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179604397&Title=Faculty%20Positions%20in%20Anesthesiology",
     "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-02",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "status": "open"
+  },
+  {
+    "id": "4670c2b0ae3bb1d3",
+    "title": "Lecturer - Marketing",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Lecturer",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179604208&Title=Lecturer%20%2D%20Marketing",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "status": "open"
+  },
+  {
+    "id": "2d7184d748c56c6b",
+    "title": "Open Rank (Assistant or Associate Professor)",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Associate Professor",
+    "track": "open-rank",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179604189&Title=Open%20Rank%20%28Assistant%20or%20Associate%20Professor%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "status": "open"
+  },
+  {
+    "id": "4fd661062b222ce9",
+    "title": "Open Rank, Clinical Associate/Assistant/Full Professor of Marketing",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Open Rank",
+    "track": "open-rank",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179604177&Title=Open%20Rank%2C%20Clinical%20Associate%2FAssistant%2FFull%20Professor%20of%20Marketing",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "status": "open"
+  },
+  {
+    "id": "ba15fec609efe294",
+    "title": "Open Rank PTK (Lecturer or Senior Lecturer)",
+    "school": "Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "state": "MD",
+    "school_rank": "21",
+    "rank": "Open Rank",
+    "track": "teaching",
+    "field": [
+      "security",
+      "systems",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179604158&Title=Open%20Rank%20PTK%20%28Lecturer%20or%20Senior%20Lecturer%29",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
     "status": "open"
   }
 ]
