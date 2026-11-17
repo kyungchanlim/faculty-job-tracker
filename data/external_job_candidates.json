@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "47d356e24af910ef",
+    "title": "Professor of Physics and Engineering (Open Rank) in Experimental Quantum Computing Systems",
+    "school": "George Mason University",
+    "location": "Fairfax, VA",
+    "state": "VA",
+    "school_rank": "65",
+    "rank": "Open Rank",
+    "track": "open-rank",
+    "field": [
+      "systems",
+      "AI/ML",
+      "computer science"
+    ],
+    "deadline": "",
+    "source": "HigherEdJobs",
+    "source_url": "https://www.higheredjobs.com/region/details.cfm?JobCode=179618963&Title=Professor%20of%20Physics%20and%20Engineering%20%28Open%20Rank%29%20in%20Experimental%20Quantum%20Computing%20Systems",
+    "source_page": "https://www.higheredjobs.com/region/search.cfm?Remote=1&metros=29&SubRegions=8&Region=2",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "status": "open"
+  }
+]
